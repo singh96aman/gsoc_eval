@@ -1,0 +1,1337 @@
+DatasetName|GroupName|DatasetAttributes|DatasetValue|Shape|Datatype
+/AwakeEventData/AIRTR01/Acq/numericPosition|/AwakeEventData/AIRTR01/Acq|"{'exception': 'False', 'acqStamp': '1541974916209533000', 'comment': ""b'Marker laser delay stage in mm'""}"|30.0|(1,)|float32
+/AwakeEventData/AIRTR02/Acq/numericPosition|/AwakeEventData/AIRTR02/Acq|"{'exception': 'False', 'acqStamp': '1541974916209533000', 'comment': ""b'Linear Translator in TCV4'""}"|45.0|(1,)|float32
+/AwakeEventData/AWAKEInjPhaseShifter/PhaseReadback/phaseACurrentValue|/AwakeEventData/AWAKEInjPhaseShifter/PhaseReadback|"{'exception': 'False', 'acqStamp': '1541974907401000000', 'comment': ""b'SPS-AWAKE RF phase'""}"|5.09375|(1,)|float32
+/AwakeEventData/BLMITT41/Acquisition/acqDesc|/AwakeEventData/BLMITT41/Acquisition||b'\x05'|(1,)|"|S1"
+/AwakeEventData/BLMITT41/Acquisition/acqMsg|/AwakeEventData/BLMITT41/Acquisition||b'\x05'|(1,)|"|S1"
+/AwakeEventData/BLMITT41/Acquisition/acqState|/AwakeEventData/BLMITT41/Acquisition||1|(1,)|int32
+/AwakeEventData/BLMITT41/Acquisition/acqTime|/AwakeEventData/BLMITT41/Acquisition||0|(1,)|int32
+/AwakeEventData/BLMITT41/Acquisition/alarmStatus|/AwakeEventData/BLMITT41/Acquisition|||(40,)|int16
+/AwakeEventData/BLMITT41/Acquisition/blrSignalStatus|/AwakeEventData/BLMITT41/Acquisition|||(40,)|int16
+/AwakeEventData/BLMITT41/Acquisition/calLosses|/AwakeEventData/BLMITT41/Acquisition|||(40,)|float32
+/AwakeEventData/BLMITT41/Acquisition/calLosses_unit|/AwakeEventData/BLMITT41/Acquisition||b'GRAY'|(1,)|"|S4"
+/AwakeEventData/BLMITT41/Acquisition/calLosses_unitExponent|/AwakeEventData/BLMITT41/Acquisition||0|(1,)|int32
+/AwakeEventData/BLMITT41/Acquisition/calThresholds|/AwakeEventData/BLMITT41/Acquisition|||(40,)|float32
+/AwakeEventData/BLMITT41/Acquisition/channelNames|/AwakeEventData/BLMITT41/Acquisition|||(15,)|"|S15"
+/AwakeEventData/BLMITT41/Acquisition/deviceName|/AwakeEventData/BLMITT41/Acquisition||b'Dummy'|(1,)|"|S5"
+/AwakeEventData/BLMITT41/Acquisition/enableExtFlagBIC|/AwakeEventData/BLMITT41/Acquisition|||(2,)|int32
+/AwakeEventData/BLMITT41/Acquisition/measStamp|/AwakeEventData/BLMITT41/Acquisition||0|(1,)|int32
+/AwakeEventData/BLMITT41/Acquisition/nbOfChannels|/AwakeEventData/BLMITT41/Acquisition||15|(1,)|int32
+/AwakeEventData/BLMITT41/Acquisition/nbOfMeas|/AwakeEventData/BLMITT41/Acquisition||1|(1,)|int32
+/AwakeEventData/BLMITT41/Acquisition/normLosses|/AwakeEventData/BLMITT41/Acquisition|||(40,)|float32
+/AwakeEventData/BLMITT41/Acquisition/observables|/AwakeEventData/BLMITT41/Acquisition||0|(1,)|int32
+/AwakeEventData/BLMITT41/Acquisition/rawLosses|/AwakeEventData/BLMITT41/Acquisition|||(40,)|int16
+/AwakeEventData/BLMITT41/Acquisition/superCycleNb|/AwakeEventData/BLMITT41/Acquisition||8|(1,)|int32
+/AwakeEventData/BLMITT41/Acquisition/totalGains|/AwakeEventData/BLMITT41/Acquisition|||(5,)|int32
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||1.5419749123423946e+18|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/beamSize|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||1.541974911368655e+18|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/cogX|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||-0.7608094360351563|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/cogY|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||-0.22998939819335937|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/height|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||1080|(1,)|int32
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||12.104629516601562|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||1.0614108609806863|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||0.6990559600158501|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/horProjection|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage|||(2048,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage|||(1080, 2048)|int16
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||1541974912491894960|(1,)|int64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||1.061410903930664|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||64965.600789510136|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||10.8479585647583|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||1.0|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||7.31787109375|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||1.061410861545139|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||0.5666958364822277|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/verProjection|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage|||(1080,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage/width|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/ExtractionImage||2048|(1,)|int32
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/PublishedSettings/delayTime|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/PublishedSettings||750.0|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/PublishedSettings||10000.0|(1,)|float64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/PublishedSettings/gain|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/PublishedSettings||36|(1,)|int64
+/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.01TCC4.AWAKECAM01/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||1.5419749123439311e+18|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/beamSize|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||1.5419749114064986e+18|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/cogX|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||-0.0025533618749999996|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/cogY|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||0.00027585281249999994|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/height|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||2048|(1,)|int32
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||19.173828125|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||5.131058681158372|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||3.6128548699799663|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/horProjection|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage|||(2592,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage|||(2048, 2592)|int16
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||1541974912493431545|(1,)|int64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||5.131058692932129|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||108664.75357316188|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||11.125301361083984|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||0.0048|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||19.834877014160156|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||5.131058677565306|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||4.0512740071967865|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/verProjection|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage|||(2048,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage/width|/AwakeEventData/BOVWA.01TCV4.CAM8/ExtractionImage||2592|(1,)|int32
+/AwakeEventData/BOVWA.01TCV4.CAM8/PublishedSettings/delayTime|/AwakeEventData/BOVWA.01TCV4.CAM8/PublishedSettings||800.0|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.01TCV4.CAM8/PublishedSettings||2500.0|(1,)|float64
+/AwakeEventData/BOVWA.01TCV4.CAM8/PublishedSettings/gain|/AwakeEventData/BOVWA.01TCV4.CAM8/PublishedSettings||136|(1,)|int64
+/AwakeEventData/BOVWA.01TCV4.CAM8/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.01TCV4.CAM8/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||1.5419749123423946e+18|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/beamSize|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||1.541974912531144e+18|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/cogX|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||-0.10717328491210938|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/cogY|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||0.02863695068359375|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/height|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||960|(1,)|int32
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||225.75209045410156|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||27.451795242354272|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||35.25853932079378|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/horProjection|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage|||(1280,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage|||(960, 1280)|int16
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||1541974912491894960|(1,)|int64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||27.45179557800293|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||13001.43178915307|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||118.7757797241211|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||1.0|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||176.40859985351562|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||27.45179527203242|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||30.65077821756055|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/verProjection|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage|||(960,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage/width|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/ExtractionImage||1280|(1,)|int32
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/PublishedSettings/delayTime|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/PublishedSettings||4500.0|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/PublishedSettings||100.0|(1,)|float64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/PublishedSettings/gain|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/PublishedSettings||300|(1,)|int64
+/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.02TCC4.AWAKECAM02/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||1.5419749123439311e+18|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/beamSize|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||1.5419749113492536e+18|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/cogX|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||-0.028870527221679685|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/cogY|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||0.01997998627471924|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/height|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||1200|(1,)|int32
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||29.081666946411133|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||0.31572699683795996|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||1.9321725554310674|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/horProjection|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage|||(1920,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage|||(1200, 1920)|int16
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||1541974912493431545|(1,)|int64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||0.31572699546813965|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||72721.95071217493|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||17.312843322753906|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||0.0275|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||23.136457443237305|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||0.315726997332337|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||1.6128720700096475|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/verProjection|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage|||(1200,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage/width|/AwakeEventData/BOVWA.02TSG40.CAM7/ExtractionImage||1920|(1,)|int32
+/AwakeEventData/BOVWA.02TSG40.CAM7/PublishedSettings/delayTime|/AwakeEventData/BOVWA.02TSG40.CAM7/PublishedSettings||650.0|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.02TSG40.CAM7/PublishedSettings||40.0|(1,)|float64
+/AwakeEventData/BOVWA.02TSG40.CAM7/PublishedSettings/gain|/AwakeEventData/BOVWA.02TSG40.CAM7/PublishedSettings||0|(1,)|int64
+/AwakeEventData/BOVWA.02TSG40.CAM7/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.02TSG40.CAM7/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||1.5419749123439311e+18|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/beamSize|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||1.5419749125473672e+18|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/cogX|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||-0.006378897184350585|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/cogY|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||0.006962785660107421|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/height|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||1200|(1,)|int32
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||295.0058288574219|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||78.62657121866941|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||85.02117141408702|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/horProjection|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage|||(1920,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage|||(1200, 1920)|int16
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||1541974912493431545|(1,)|int64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||78.62657165527344|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||19281.95380136567|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||155.70030212402344|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||0.00586|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||217.22708129882812|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||78.62657111644745|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||65.38457382466363|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/verProjection|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage|||(1200,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage/width|/AwakeEventData/BOVWA.03TT41.CAM3/ExtractionImage||1920|(1,)|int32
+/AwakeEventData/BOVWA.03TT41.CAM3/PublishedSettings/delayTime|/AwakeEventData/BOVWA.03TT41.CAM3/PublishedSettings||650.0|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.03TT41.CAM3/PublishedSettings||40.0|(1,)|float64
+/AwakeEventData/BOVWA.03TT41.CAM3/PublishedSettings/gain|/AwakeEventData/BOVWA.03TT41.CAM3/PublishedSettings||0|(1,)|int64
+/AwakeEventData/BOVWA.03TT41.CAM3/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.03TT41.CAM3/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||1.5419749123423946e+18|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/beamSize|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||1.5419749125292882e+18|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/cogX|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||-0.7987653808593751|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/cogY|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||-0.48935556030273436|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/height|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||1200|(1,)|int32
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||105.56999969482422|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||29.568878135681153|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||22.974348039050124|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/horProjection|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage|||(1600,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage|||(1200, 1600)|int16
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||1541974912491894960|(1,)|int64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||29.568878173828125|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||18335.32444196175|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||48.218711853027344|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||5.0|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||87.27749633789062|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||29.568878105481467|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||15.803683669590047|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/verProjection|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage|||(1200,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage/width|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/ExtractionImage||1600|(1,)|int32
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/PublishedSettings/delayTime|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/PublishedSettings||4000.0|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/PublishedSettings||1200.0|(1,)|float64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/PublishedSettings/gain|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/PublishedSettings||0|(1,)|int64
+/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.04TCC4.AWAKECAM04/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||1.5419749123439311e+18|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/beamSize|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||1.5419749125465364e+18|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/cogX|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||0.009970887671435546|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/cogY|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||0.00707427303638916|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/height|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||1200|(1,)|int32
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||506.1258239746094|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||110.8574956158797|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||151.32069807693875|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/horProjection|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage|||(1920,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage|||(1200, 1920)|int16
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||1541974912493431545|(1,)|int64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||110.85749816894531|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||19537.560875554555|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||285.3851623535156|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||0.00586|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||387.69219970703125|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||110.8574957227707|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||121.80932637552738|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/verProjection|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage|||(1200,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage/width|/AwakeEventData/BOVWA.04TT41.CAM4/ExtractionImage||1920|(1,)|int32
+/AwakeEventData/BOVWA.04TT41.CAM4/PublishedSettings/delayTime|/AwakeEventData/BOVWA.04TT41.CAM4/PublishedSettings||650.0|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.04TT41.CAM4/PublishedSettings||2000.0|(1,)|float64
+/AwakeEventData/BOVWA.04TT41.CAM4/PublishedSettings/gain|/AwakeEventData/BOVWA.04TT41.CAM4/PublishedSettings||0|(1,)|int64
+/AwakeEventData/BOVWA.04TT41.CAM4/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.04TT41.CAM4/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||1.5419749123439311e+18|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/beamSize|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||1.5419749125405655e+18|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/cogX|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||-0.011887000807983397|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/cogY|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||0.0034950823680419915|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/height|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||1200|(1,)|int32
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||400.8491516113281|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||96.71406595160563|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||118.74912249554623|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/horProjection|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage|||(1920,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage|||(1200, 1920)|int16
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||1541974912493431545|(1,)|int64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||96.71406555175781|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||18800.394006775496|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||224.03924560546875|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||0.0059|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||305.0307312011719|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||96.71406614939372|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||92.71121320197507|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/verProjection|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage|||(1200,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage/width|/AwakeEventData/BOVWA.05TT41.CAM5/ExtractionImage||1920|(1,)|int32
+/AwakeEventData/BOVWA.05TT41.CAM5/PublishedSettings/delayTime|/AwakeEventData/BOVWA.05TT41.CAM5/PublishedSettings||650.0|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.05TT41.CAM5/PublishedSettings||40.0|(1,)|float64
+/AwakeEventData/BOVWA.05TT41.CAM5/PublishedSettings/gain|/AwakeEventData/BOVWA.05TT41.CAM5/PublishedSettings||0|(1,)|int64
+/AwakeEventData/BOVWA.05TT41.CAM5/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.05TT41.CAM5/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||1.5419749123423946e+18|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/beamSize|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||1.5419749113679521e+18|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/cogX|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||-0.4578664306640625|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/cogY|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||-0.5430607604980469|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/height|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||1200|(1,)|int32
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||16.366666793823242|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||10.646053131520748|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||2.114126048059908|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/horProjection|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage|||(1600,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage|||(1200, 1600)|int16
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||1541974912491894960|(1,)|int64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||10.646053314208984|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||27605.482135546918|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||13.432103157043457|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||1.0|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||23.15999984741211|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||10.6460531214873|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||3.522644160996541|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/verProjection|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage|||(1200,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage/width|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/ExtractionImage||1600|(1,)|int32
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/PublishedSettings/delayTime|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/PublishedSettings||10000.0|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/PublishedSettings||800.0|(1,)|float64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/PublishedSettings/gain|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/PublishedSettings||0|(1,)|int64
+/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.06TCC4.AWAKECAM06/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||1.5419749123423946e+18|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/beamSize|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||1.5419749113635697e+18|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/cogX|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||-0.029047124230957035|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/cogY|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||-0.043476984649658205|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/height|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||1200|(1,)|int32
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||16.6733341217041|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||10.449679155349731|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||1.953509458155104|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/horProjection|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage|||(1600,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage|||(1200, 1600)|int16
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||1541974912491894960|(1,)|int64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||10.449679374694824|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||28170.88770330108|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||13.784394264221191|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||0.069|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||24.927499771118164|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||10.449679162899653|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||3.8861022999473143|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/verProjection|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage|||(1200,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage/width|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/ExtractionImage||1600|(1,)|int32
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/PublishedSettings/delayTime|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/PublishedSettings||10000.0|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/PublishedSettings||2000.0|(1,)|float64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/PublishedSettings/gain|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/PublishedSettings||0|(1,)|int64
+/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.07TCC4.AWAKECAM07/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/beamIntensity|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||1.5419749123423946e+18|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/beamSize|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||1.541974911347245e+18|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/cogX|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||-0.0053207434960937505|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/cogY|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||0.0017041462268066407|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/height|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||960|(1,)|int32
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/horProjAmp|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||53.344791412353516|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/horProjAvg|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||15.530816248431801|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/horProjSigma|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||4.661299857027356|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/horProjection|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage|||(1280,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/imageRawData|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage|||(960, 1280)|int16
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/imageTimeStamp|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||1541974912491894960|(1,)|int64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/intensityAvg|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||15.530816078186035|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/intensityHistogram|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage|||(1000,)|int32
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/intensityRMS|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||14252.025464333132|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/intensitySigma|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||38.260780334472656|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/pixelSize|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||0.0268|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/verProjAmp|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||23.01171875|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/verProjAvg|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||15.530816241105397|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/verProjSigma|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||1.6018991154289768|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/verProjection|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage|||(960,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage/width|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/ExtractionImage||1280|(1,)|int32
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/PublishedSettings/delayTime|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/PublishedSettings||500.0|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/PublishedSettings/exposureTime|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/PublishedSettings||400.0|(1,)|float64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/PublishedSettings/gain|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/PublishedSettings||300|(1,)|int64
+/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/PublishedSettings/triggerMode|/AwakeEventData/BOVWA.11TCC4.AWAKECAM11/PublishedSettings||b'On'|(1,)|"|S2"
+/AwakeEventData/BPM.AWAKE.TT41/Acquisition/bpmNames|/AwakeEventData/BPM.AWAKE.TT41/Acquisition|||(32,)|"|S15"
+/AwakeEventData/BPM.AWAKE.TT41/Acquisition/dynDestination|/AwakeEventData/BPM.AWAKE.TT41/Acquisition||b'AWAKE'|(1,)|"|S5"
+/AwakeEventData/BPM.AWAKE.TT41/Acquisition/horPosOk|/AwakeEventData/BPM.AWAKE.TT41/Acquisition|{'bitFieldSize': '32'}||(0,)|
+/AwakeEventData/BPM.AWAKE.TT41/Acquisition/horPosition|/AwakeEventData/BPM.AWAKE.TT41/Acquisition|||(32,)|float32
+/AwakeEventData/BPM.AWAKE.TT41/Acquisition/nbOfBpms|/AwakeEventData/BPM.AWAKE.TT41/Acquisition||21|(1,)|int16
+/AwakeEventData/BPM.AWAKE.TT41/Acquisition/verPosOk|/AwakeEventData/BPM.AWAKE.TT41/Acquisition|{'bitFieldSize': '32'}||(0,)|
+/AwakeEventData/BPM.AWAKE.TT41/Acquisition/verPosition|/AwakeEventData/BPM.AWAKE.TT41/Acquisition|||(32,)|float32
+/AwakeEventData/BTV.TT41.412354_FILTER/Acquisition/position|/AwakeEventData/BTV.TT41.412354_FILTER/Acquisition|"{'exception': 'False', 'acqStamp': '1541974917065399000', 'comment': ""b'Filter for BTV 354'""}"|1064|(1,)|int32
+/AwakeEventData/BTV.TT41.412426_FWHEEL/Acquisition/position|/AwakeEventData/BTV.TT41.412426_FWHEEL/Acquisition|"{'exception': 'False', 'acqStamp': '1541974917065399000', 'comment': ""b'Filter position'""}"|-35803|(1,)|int32
+/AwakeEventData/BTV.TT41.412426_MASK_H/Acquisition/position|/AwakeEventData/BTV.TT41.412426_MASK_H/Acquisition|"{'exception': 'False', 'acqStamp': '1541974917065399000', 'comment': ""b'Mask position'""}"|11350|(1,)|int32
+/AwakeEventData/BTV.TT41.412426_MASK_V/Acquisition/position|/AwakeEventData/BTV.TT41.412426_MASK_V/Acquisition|"{'exception': 'False', 'acqStamp': '1541974917065399000', 'comment': ""b'Mask position'""}"|-4695|(1,)|int32
+/AwakeEventData/BTV.TT41.412442_FWHEEL/Acquisition/position|/AwakeEventData/BTV.TT41.412442_FWHEEL/Acquisition|"{'exception': 'False', 'acqStamp': '1541974917065399000', 'comment': ""b'Filter position'""}"|-96573|(1,)|int32
+/AwakeEventData/BTV.TT41.412442_MASK_H/Acquisition/position|/AwakeEventData/BTV.TT41.412442_MASK_H/Acquisition|"{'exception': 'False', 'acqStamp': '1541974917065399000', 'comment': ""b'Mask position'""}"|9130|(1,)|int32
+/AwakeEventData/BTV.TT41.412442_MASK_V/Acquisition/position|/AwakeEventData/BTV.TT41.412442_MASK_V/Acquisition|"{'exception': 'False', 'acqStamp': '1541974917065399000', 'comment': ""b'Mask position'""}"|8620|(1,)|int32
+/AwakeEventData/EMETER02/Acq/outOfRange|/AwakeEventData/EMETER02/Acq|||()|
+/AwakeEventData/EMETER02/Acq/value|/AwakeEventData/EMETER02/Acq||0.000350473|(1,)|float32
+/AwakeEventData/EMETER02/Acq/value_units|/AwakeEventData/EMETER02/Acq||b'J'|(1,)|"|S1"
+/AwakeEventData/EMETER03/Acq/outOfRange|/AwakeEventData/EMETER03/Acq|||()|
+/AwakeEventData/EMETER03/Acq/value|/AwakeEventData/EMETER03/Acq||0.0|(1,)|float32
+/AwakeEventData/EMETER03/Acq/value_units|/AwakeEventData/EMETER03/Acq||b'J'|(1,)|"|S1"
+/AwakeEventData/EMETER04/Acq/outOfRange|/AwakeEventData/EMETER04/Acq|||()|
+/AwakeEventData/EMETER04/Acq/value|/AwakeEventData/EMETER04/Acq||0.055162948|(1,)|float32
+/AwakeEventData/EMETER04/Acq/value_units|/AwakeEventData/EMETER04/Acq||b'J'|(1,)|"|S1"
+/AwakeEventData/EMETER05/Acq/outOfRange|/AwakeEventData/EMETER05/Acq|||()|
+/AwakeEventData/EMETER05/Acq/value|/AwakeEventData/EMETER05/Acq||7.596303e-08|(1,)|float32
+/AwakeEventData/EMETER05/Acq/value_units|/AwakeEventData/EMETER05/Acq||b'J'|(1,)|"|S1"
+/AwakeEventData/FWHEEL01/Acq/backWheelPositionDescription|/AwakeEventData/FWHEEL01/Acq||b'1.5 OD'|(1,)|"|S6"
+/AwakeEventData/FWHEEL01/Acq/frontWheelPositionDescription|/AwakeEventData/FWHEEL01/Acq||b'1.5 OD'|(1,)|"|S6"
+/AwakeEventData/FWHEEL01/Acq/status|/AwakeEventData/FWHEEL01/Acq||1|(1,)|int32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS/bpmNames|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS|||(14,)|"|S18"
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS/horPos|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS|||(14,)|float32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS/nbOfBpms|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS||14|(1,)|int32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS/posOK|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS|{'bitFieldSize': '14'}||(1,)|
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS/sigma|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS|||(14,)|int32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS/verPos|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/AcquisitionSPS|||(14,)|float32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/bpmNames|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|||(14,)|"|S18"
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/horPos|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|||(14,)|float32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/horPosSelected|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|||(14,)|float32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/nbOfBpms|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition||14|(1,)|int32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/posOK|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|{'bitFieldSize': '14'}||(1,)|
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/posOkSelected|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|{'bitFieldSize': '14'}||(1,)|
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/sigma|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|||(14,)|float32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/sigmaSelected|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|||(14,)|int32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/verPos|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|||(14,)|float32
+/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition/verPosSelected|/AwakeEventData/GD_BPM.AWAKE.TRIUMF/GlobalAcquisition|||(14,)|float32
+/AwakeEventData/LSSE2/Acq/position|/AwakeEventData/LSSE2/Acq|"{'exception': 'False', 'acqStamp': '1541974916209541000', 'comment': ""b'UV cathode shutter'""}"|1|(1,)|int32
+/AwakeEventData/LSSP2/Acq/position|/AwakeEventData/LSSP2/Acq|"{'exception': 'False', 'acqStamp': '1541974916209541000', 'comment': ""b'Laser shutter'""}"|1|(1,)|int32
+/AwakeEventData/MPP-TSG41-MIRROR1-H/Acquisition/position|/AwakeEventData/MPP-TSG41-MIRROR1-H/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916690890000', 'comment': ""b'XMPP streak mirror'""}"|100|(1,)|int32
+/AwakeEventData/MPP-TSG41-MIRROR1-V/Acquisition/position|/AwakeEventData/MPP-TSG41-MIRROR1-V/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916690890000', 'comment': ""b'XMPP streak mirror'""}"|-20|(1,)|int32
+/AwakeEventData/MPP-TSG41-WHEEL1-BI/Acquisition/position|/AwakeEventData/MPP-TSG41-WHEEL1-BI/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916690890000', 'comment': ""b'XMPP streak filter'""}"|380|(1,)|int32
+/AwakeEventData/MPP-VACTRANS-CTR/Acquisition/mmPosition|/AwakeEventData/MPP-VACTRANS-CTR/Acquisition||30733.0|(1,)|float64
+/AwakeEventData/MPP-VACTRANS-CTR/Acquisition/position|/AwakeEventData/MPP-VACTRANS-CTR/Acquisition||30733|(1,)|int32
+/AwakeEventData/MPP-VACTRANS-CTR/Acquisition/stepperBusy|/AwakeEventData/MPP-VACTRANS-CTR/Acquisition|||()|
+/AwakeEventData/MPP-VACTRANS-CTR/Acquisition/switchIn|/AwakeEventData/MPP-VACTRANS-CTR/Acquisition|||()|
+/AwakeEventData/MPP-VACTRANS-CTR/Acquisition/switchOut|/AwakeEventData/MPP-VACTRANS-CTR/Acquisition|||()|
+/AwakeEventData/MPP-VACTRANS-OTR/Acquisition/mmPosition|/AwakeEventData/MPP-VACTRANS-OTR/Acquisition||30528.0|(1,)|float64
+/AwakeEventData/MPP-VACTRANS-OTR/Acquisition/position|/AwakeEventData/MPP-VACTRANS-OTR/Acquisition||30528|(1,)|int32
+/AwakeEventData/MPP-VACTRANS-OTR/Acquisition/stepperBusy|/AwakeEventData/MPP-VACTRANS-OTR/Acquisition|||()|
+/AwakeEventData/MPP-VACTRANS-OTR/Acquisition/switchIn|/AwakeEventData/MPP-VACTRANS-OTR/Acquisition|||()|
+/AwakeEventData/MPP-VACTRANS-OTR/Acquisition/switchOut|/AwakeEventData/MPP-VACTRANS-OTR/Acquisition|||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS01/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS01/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 OTR Flipper'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS01/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS01/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 OTR Flipper'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS01/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS01/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 OTR Flipper'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS02/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS02/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 CTR Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS02/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS02/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 CTR Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS02/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS02/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 CTR Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS03/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS03/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 CTR Flipper 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS03/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS03/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 CTR Flipper 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS03/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS03/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TSG41 CTR Flipper 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS04/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS04/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'THis nothign please ignore'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS04/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS04/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'THis nothign please ignore'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS04/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS04/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'THis nothign please ignore'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS09/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS09/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS09/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS09/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS09/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS09/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS10/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS10/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS10/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS10/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS10/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS10/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS11/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS11/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 3 n/c'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS11/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS11/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 3 n/c'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS11/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS11/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 3 n/c'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS12/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS12/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 3 n/c'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS12/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS12/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 3 n/c'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-08.AXIS12/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-08.AXIS12/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Translator 3 n/c'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS01/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS01/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Shutter'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS01/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS01/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Shutter'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS01/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS01/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Shutter'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS02/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS02/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS02/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS02/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS02/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS02/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS03/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS03/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS03/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS03/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS03/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS03/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS04/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS04/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 3'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS04/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS04/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 3'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS04/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS04/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR Attenuator 3'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS05/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS05/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR RF Wheel'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS05/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS05/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR RF Wheel'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS05/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS05/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 CTR RF Wheel'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS06/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS06/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Flipper'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS06/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS06/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Flipper'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS06/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS06/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Flipper'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS07/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS07/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Diag Mirror H'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS07/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS07/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Diag Mirror H'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS07/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS07/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Diag Mirror H'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS08/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS08/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Diag Mirror V'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS08/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS08/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Diag Mirror V'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS08/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS08/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 OTR Diag Mirror V'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS09/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS09/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Upstream Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS09/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS09/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Upstream Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS09/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS09/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Upstream Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS10/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS10/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Upstream Flipper 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS10/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS10/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Upstream Flipper 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS10/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS10/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Upstream Flipper 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS11/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS11/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Downstream Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS11/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS11/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Downstream Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS11/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS11/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Downstream Flipper 1'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS12/Movement/leftLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS12/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Downstream Flipper 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS12/Movement/position|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS12/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Downstream Flipper 2'""}"||()|
+/AwakeEventData/MPPAWAKE-STANDA-12.AXIS12/Movement/rightLimitSwitchReached|/AwakeEventData/MPPAWAKE-STANDA-12.AXIS12/Movement|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'TT41 Rb Downstream Flipper 2'""}"||()|
+/AwakeEventData/PMOTOR01/Acquisition/position|/AwakeEventData/PMOTOR01/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'horizontal MP5'""}"|0|(1,)|int32
+/AwakeEventData/PMOTOR02/Acquisition/position|/AwakeEventData/PMOTOR02/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'vertical MP5'""}"|0|(1,)|int32
+/AwakeEventData/PMOTOR03/Acquisition/position|/AwakeEventData/PMOTOR03/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'horizontal MP4'""}"|0|(1,)|int32
+/AwakeEventData/PMOTOR04/Acquisition/position|/AwakeEventData/PMOTOR04/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'vertical MP4'""}"|0|(1,)|int32
+/AwakeEventData/PMOTOR05/Acquisition/position|/AwakeEventData/PMOTOR05/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'horizontal MP3'""}"|0|(1,)|int32
+/AwakeEventData/PMOTOR06/Acquisition/position|/AwakeEventData/PMOTOR06/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'vertical MP3'""}"|-40|(1,)|int32
+/AwakeEventData/PMOTOR13/Acquisition/position|/AwakeEventData/PMOTOR13/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'vertical MP2'""}"|0|(1,)|int32
+/AwakeEventData/PMOTOR14/Acquisition/position|/AwakeEventData/PMOTOR14/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'horizontal MP2'""}"|0|(1,)|int32
+/AwakeEventData/PMOTOR15/Acquisition/position|/AwakeEventData/PMOTOR15/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'horizontal MP1'""}"|20|(1,)|int32
+/AwakeEventData/PMOTOR16/Acquisition/position|/AwakeEventData/PMOTOR16/Acquisition|"{'exception': 'False', 'acqStamp': '1541974916926289000', 'comment': ""b'vertical MP1'""}"|5|(1,)|int32
+/AwakeEventData/Plunger.412401/StartCounterSt/value|/AwakeEventData/Plunger.412401/StartCounterSt|"{'exception': 'False', 'acqStamp': '1541962391965000000', 'comment': ""b'Plunger counter'""}"|3137|(1,)|int32
+/AwakeEventData/Plunger.412401/State/value|/AwakeEventData/Plunger.412401/State|"{'exception': 'False', 'acqStamp': '1541962389981000000', 'comment': ""b'Plunger state'""}"|3|(1,)|int16
+/AwakeEventData/Plunger.412422/StartCounterSt/value|/AwakeEventData/Plunger.412422/StartCounterSt|"{'exception': 'False', 'acqStamp': '1541952520255000000', 'comment': ""b'Plunger counter'""}"|3167|(1,)|int32
+/AwakeEventData/Plunger.412422/State/value|/AwakeEventData/Plunger.412422/State|"{'exception': 'False', 'acqStamp': '1541952515969000000', 'comment': ""b'Plunger state'""}"|3|(1,)|int16
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/SEUType1|/AwakeEventData/RADMON.AWAKE-1/Acquisition||3.3|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/SEUType2|/AwakeEventData/RADMON.AWAKE-1/Acquisition||3.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumBank1HadronFluence|/AwakeEventData/RADMON.AWAKE-1/Acquisition||29031694478.43|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumBank1MBUCounts|/AwakeEventData/RADMON.AWAKE-1/Acquisition||17341|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumBank1SEUCounts|/AwakeEventData/RADMON.AWAKE-1/Acquisition||322441|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumBank2HadronFluence|/AwakeEventData/RADMON.AWAKE-1/Acquisition||149979259375.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumBank2MBUCounts|/AwakeEventData/RADMON.AWAKE-1/Acquisition||377180|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumBank2SEUCounts|/AwakeEventData/RADMON.AWAKE-1/Acquisition||96875|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumNeutronFluence|/AwakeEventData/RADMON.AWAKE-1/Acquisition||5417551002890.012|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumTID1|/AwakeEventData/RADMON.AWAKE-1/Acquisition||529.3283656586332|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/cumTID2|/AwakeEventData/RADMON.AWAKE-1/Acquisition||519.6747342234934|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/lPar1|/AwakeEventData/RADMON.AWAKE-1/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/lPar2|/AwakeEventData/RADMON.AWAKE-1/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/lPar3|/AwakeEventData/RADMON.AWAKE-1/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/lParType|/AwakeEventData/RADMON.AWAKE-1/Acquisition||1.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/pinDiodeType|/AwakeEventData/RADMON.AWAKE-1/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/radfet1Type|/AwakeEventData/RADMON.AWAKE-1/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/radfet2Type|/AwakeEventData/RADMON.AWAKE-1/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/radmonStatus|/AwakeEventData/RADMON.AWAKE-1/Acquisition||0|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/revisionNumber|/AwakeEventData/RADMON.AWAKE-1/Acquisition||2|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-1/Acquisition/revisionType|/AwakeEventData/RADMON.AWAKE-1/Acquisition||0|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/SEUType1|/AwakeEventData/RADMON.AWAKE-2/Acquisition||3.3|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/SEUType2|/AwakeEventData/RADMON.AWAKE-2/Acquisition||5.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumBank1HadronFluence|/AwakeEventData/RADMON.AWAKE-2/Acquisition||1023010840499.01|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumBank1MBUCounts|/AwakeEventData/RADMON.AWAKE-2/Acquisition||4746227|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumBank1SEUCounts|/AwakeEventData/RADMON.AWAKE-2/Acquisition||11362087|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumBank2HadronFluence|/AwakeEventData/RADMON.AWAKE-2/Acquisition||1664084120400.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumBank2MBUCounts|/AwakeEventData/RADMON.AWAKE-2/Acquisition||21648454|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumBank2SEUCounts|/AwakeEventData/RADMON.AWAKE-2/Acquisition||34340|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumNeutronFluence|/AwakeEventData/RADMON.AWAKE-2/Acquisition||5490535089937.867|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumTID1|/AwakeEventData/RADMON.AWAKE-2/Acquisition||523.577217198605|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/cumTID2|/AwakeEventData/RADMON.AWAKE-2/Acquisition||529.0357612985962|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/lPar1|/AwakeEventData/RADMON.AWAKE-2/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/lPar2|/AwakeEventData/RADMON.AWAKE-2/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/lPar3|/AwakeEventData/RADMON.AWAKE-2/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/lParType|/AwakeEventData/RADMON.AWAKE-2/Acquisition||1.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/pinDiodeType|/AwakeEventData/RADMON.AWAKE-2/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/radfet1Type|/AwakeEventData/RADMON.AWAKE-2/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/radfet2Type|/AwakeEventData/RADMON.AWAKE-2/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/radmonStatus|/AwakeEventData/RADMON.AWAKE-2/Acquisition||0|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/revisionNumber|/AwakeEventData/RADMON.AWAKE-2/Acquisition||2|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-2/Acquisition/revisionType|/AwakeEventData/RADMON.AWAKE-2/Acquisition||0|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/SEUType1|/AwakeEventData/RADMON.AWAKE-3/Acquisition||3.3|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/SEUType2|/AwakeEventData/RADMON.AWAKE-3/Acquisition||3.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumBank1HadronFluence|/AwakeEventData/RADMON.AWAKE-3/Acquisition||5475434067.99|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumBank1MBUCounts|/AwakeEventData/RADMON.AWAKE-3/Acquisition||2132|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumBank1SEUCounts|/AwakeEventData/RADMON.AWAKE-3/Acquisition||60813|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumBank2HadronFluence|/AwakeEventData/RADMON.AWAKE-3/Acquisition||25080402600.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumBank2MBUCounts|/AwakeEventData/RADMON.AWAKE-3/Acquisition||66961|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumBank2SEUCounts|/AwakeEventData/RADMON.AWAKE-3/Acquisition||16200|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumNeutronFluence|/AwakeEventData/RADMON.AWAKE-3/Acquisition||5289732160087.676|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumTID1|/AwakeEventData/RADMON.AWAKE-3/Acquisition||475.32431641756034|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/cumTID2|/AwakeEventData/RADMON.AWAKE-3/Acquisition||474.8877064963672|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/lPar1|/AwakeEventData/RADMON.AWAKE-3/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/lPar2|/AwakeEventData/RADMON.AWAKE-3/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/lPar3|/AwakeEventData/RADMON.AWAKE-3/Acquisition||0.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/lParType|/AwakeEventData/RADMON.AWAKE-3/Acquisition||1.0|(1,)|float64
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/pinDiodeType|/AwakeEventData/RADMON.AWAKE-3/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/radfet1Type|/AwakeEventData/RADMON.AWAKE-3/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/radfet2Type|/AwakeEventData/RADMON.AWAKE-3/Acquisition||1|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/radmonStatus|/AwakeEventData/RADMON.AWAKE-3/Acquisition||0|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/revisionNumber|/AwakeEventData/RADMON.AWAKE-3/Acquisition||2|(1,)|int32
+/AwakeEventData/RADMON.AWAKE-3/Acquisition/revisionType|/AwakeEventData/RADMON.AWAKE-3/Acquisition||0|(1,)|int32
+/AwakeEventData/RPADA.BB4.RQNI.412432/MEAS.I|/AwakeEventData/RPADA.BB4.RQNI.412432|"{'exception': 'False', 'acqStamp': '1541974917012008000', 'comment': ""b'Exp Quad Current'""}"|-0.00052665535|(1,)|float32
+/AwakeEventData/RPADA.BB4.RQNI.412432/REF.I|/AwakeEventData/RPADA.BB4.RQNI.412432|"{'exception': 'False', 'acqStamp': '1541974917002008000', 'comment': ""b'Spec. quad setting'""}"|0.0|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.412344/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.412344/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 412344 I'""}"|0.00040939997|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.412345/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.412345/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 412345 I'""}"|0.0011818|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.412347/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.412347/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 412347 I'""}"|-1.9778681|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.412349/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.412349/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 412349 I'""}"|3.871538|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.412353/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.412353/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 412353 I'""}"|-0.3996481|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.430011/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.430011/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 430011 I'""}"|4.49992|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.430029/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.430029/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 430029 I'""}"|-6.35e-05|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.430040/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.430040/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 430040 I'""}"|0.00020000001|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.430104/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.430104/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 430104 I'""}"|-0.0001636|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.430130/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.430130/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 430130 I'""}"|0.0003278|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.430204/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.430204/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 430204 I'""}"|-0.0007725|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBH.430309/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBH.430309/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron H corr 430309 I'""}"|0.0011544|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.412344/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.412344/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 412344 I'""}"|0.860117|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.412345/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.412345/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 412345 I'""}"|8.603567|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.412347/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.412347/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 412347 I'""}"|-2.1501985|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.412349/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.412349/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 412349 I'""}"|0.17247729|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.412353/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.412353/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 412353 I'""}"|1.3889232|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.430011/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.430011/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 430011 I'""}"|-1.4990779|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.430029/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.430029/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 430029 I'""}"|-0.0002636|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.430040/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.430040/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 430040 I'""}"|0.0012182|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.430104/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.430104/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 430104 I'""}"|6.3600004e-05|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.430130/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.430130/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 430130 I'""}"|-0.0003818|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.430204/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.430204/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 430204 I'""}"|0.0016183|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RCIBV.430309/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RCIBV.430309/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron V corr 430309 I'""}"|0.0004728|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQID.412344/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQID.412344/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 412344 I'""}"|0.24913761|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQID.412347/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQID.412347/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 412347 I'""}"|3.2364135|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQID.430031/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQID.430031/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 430031 I'""}"|1.1731393|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQID.430037/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQID.430037/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 430037 I'""}"|1.9008412|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQID.430109S/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQID.430109S/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 430109S I'""}"|7.320474|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQIF.412346/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQIF.412346/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 412346 I'""}"|3.8730996|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQIF.430034/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQIF.430034/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 430034 I'""}"|2.193712|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQIF.430118/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQIF.430118/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 430118 I'""}"|4.546791|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQIF.430205/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQIF.430205/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 430205 I'""}"|-1.7758292|(1,)|float32
+/AwakeEventData/RPCAH.TSG4.RQIF.430311/Acquisition/currentAverage|/AwakeEventData/RPCAH.TSG4.RQIF.430311/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron quad 430311 I'""}"|6.2003403|(1,)|float32
+/AwakeEventData/RPPEF.BB4.RBIH.412435/MEAS.I|/AwakeEventData/RPPEF.BB4.RBIH.412435|"{'exception': 'False', 'acqStamp': '1541974917002000000', 'comment': ""b'Exp Dipole Current'""}"|96.57887|(1,)|float32
+/AwakeEventData/RPPEF.BB4.RBIH.412435/REF.I|/AwakeEventData/RPPEF.BB4.RBIH.412435|"{'exception': 'False', 'acqStamp': '1541974917002000000', 'comment': ""b'Spec. dipole setting'""}"|100.0|(1,)|float32
+/AwakeEventData/RPSKN.TSG4.SNH.430000/Acquisition/currentAverage|/AwakeEventData/RPSKN.TSG4.SNH.430000/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron solenoid 430000 I'""}"|170.039|(1,)|float32
+/AwakeEventData/RPSKN.TSG4.SNJ.430001/Acquisition/currentAverage|/AwakeEventData/RPSKN.TSG4.SNJ.430001/Acquisition|"{'exception': 'False', 'acqStamp': '1541974913987715200', 'comment': ""b'Electron solenoid 430001 I'""}"|180.005|(1,)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/acqDesc|/AwakeEventData/SPS.BCTDC.41435/Acquisition||b'\x05'|(1,)|"|S1"
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/acqMsg|/AwakeEventData/SPS.BCTDC.41435/Acquisition||b'Data for device: SPS.BCTDC.41435'|(1,)|"|S32"
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/acqState|/AwakeEventData/SPS.BCTDC.41435/Acquisition||1|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/acqTime|/AwakeEventData/SPS.BCTDC.41435/Acquisition||b'Sun Nov 11 23:21:47 2018\n'|(1,)|"|S25"
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/calMarkerData|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/cycleTime|/AwakeEventData/SPS.BCTDC.41435/Acquisition||b'\x05'|(1,)|"|S1"
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/dumpCycleTime|/AwakeEventData/SPS.BCTDC.41435/Acquisition||5637|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/dumpInt|/AwakeEventData/SPS.BCTDC.41435/Acquisition||7.5200005|(1,)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/inCheckStatusData|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/lowIbStatusData|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/measStamp|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(940,)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/measStamp_unit|/AwakeEventData/SPS.BCTDC.41435/Acquisition||4|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/measStamp_unitExponent|/AwakeEventData/SPS.BCTDC.41435/Acquisition||-3.0|(1,)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/nbOfAdcData|/AwakeEventData/SPS.BCTDC.41435/Acquisition||1120|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/nbOfMeas|/AwakeEventData/SPS.BCTDC.41435/Acquisition||940|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/range1Data|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/range2Data|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/range3Data|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/range4Data|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/samplingTime|/AwakeEventData/SPS.BCTDC.41435/Acquisition||5|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/sbfCycleTime|/AwakeEventData/SPS.BCTDC.41435/Acquisition||3775|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/sbfIntensity|/AwakeEventData/SPS.BCTDC.41435/Acquisition||2589.465|(1,)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/selectedRange|/AwakeEventData/SPS.BCTDC.41435/Acquisition||1|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/slowCycleTime|/AwakeEventData/SPS.BCTDC.41435/Acquisition||0|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/slowExtInt|/AwakeEventData/SPS.BCTDC.41435/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/superCycleNb|/AwakeEventData/SPS.BCTDC.41435/Acquisition||8|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/totalIntensity|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(940,)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/totalIntensity4Ranges|/AwakeEventData/SPS.BCTDC.41435/Acquisition|||(4, 1120)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/totalIntensity_unit|/AwakeEventData/SPS.BCTDC.41435/Acquisition||7|(1,)|int32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/totalIntensity_unitExponent|/AwakeEventData/SPS.BCTDC.41435/Acquisition||8.0|(1,)|float32
+/AwakeEventData/SPS.BCTDC.41435/Acquisition/vmodStatus|/AwakeEventData/SPS.BCTDC.41435/Acquisition||-16385|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/acqDesc|/AwakeEventData/SPS.BCTDC.51895/Acquisition||b'\x05'|(1,)|"|S1"
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/acqMsg|/AwakeEventData/SPS.BCTDC.51895/Acquisition||b'Data for device: SPS.BCTDC.51895'|(1,)|"|S32"
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/acqState|/AwakeEventData/SPS.BCTDC.51895/Acquisition||1|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/acqTime|/AwakeEventData/SPS.BCTDC.51895/Acquisition||b'Sun Nov 11 23:21:47 2018\n'|(1,)|"|S25"
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/calMarkerData|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/cycleTime|/AwakeEventData/SPS.BCTDC.51895/Acquisition||b'\x05'|(1,)|"|S1"
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/dumpCycleTime|/AwakeEventData/SPS.BCTDC.51895/Acquisition||5637|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/dumpInt|/AwakeEventData/SPS.BCTDC.51895/Acquisition||-0.4858135|(1,)|float32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/inCheckStatusData|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/lowIbStatusData|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/measStamp|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(940,)|float32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/measStamp_unit|/AwakeEventData/SPS.BCTDC.51895/Acquisition||4|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/measStamp_unitExponent|/AwakeEventData/SPS.BCTDC.51895/Acquisition||-3.0|(1,)|float32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/monitorArray1|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/monitorArray2|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/nbOfAdcData|/AwakeEventData/SPS.BCTDC.51895/Acquisition||1120|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/nbOfMeas|/AwakeEventData/SPS.BCTDC.51895/Acquisition||940|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/range1Data|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/range2Data|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/range3Data|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/range4Data|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(1120,)|int16
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/samplingTime|/AwakeEventData/SPS.BCTDC.51895/Acquisition||5|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/sbfCycleTime|/AwakeEventData/SPS.BCTDC.51895/Acquisition||3775|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/sbfIntensity|/AwakeEventData/SPS.BCTDC.51895/Acquisition||26.012547|(1,)|float32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/selectedRange|/AwakeEventData/SPS.BCTDC.51895/Acquisition||3|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/slowCycleTime|/AwakeEventData/SPS.BCTDC.51895/Acquisition||0|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/slowExtInt|/AwakeEventData/SPS.BCTDC.51895/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/superCycleNb|/AwakeEventData/SPS.BCTDC.51895/Acquisition||8|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/totalIntensity|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(940,)|float32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/totalIntensity4Ranges|/AwakeEventData/SPS.BCTDC.51895/Acquisition|||(4, 1120)|float32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/totalIntensity_unit|/AwakeEventData/SPS.BCTDC.51895/Acquisition||7|(1,)|int32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/totalIntensity_unitExponent|/AwakeEventData/SPS.BCTDC.51895/Acquisition||10.0|(1,)|float32
+/AwakeEventData/SPS.BCTDC.51895/Acquisition/vmodStatus|/AwakeEventData/SPS.BCTDC.51895/Acquisition||-1|(1,)|int32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/beamOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bqmOutputEnable|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensities|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(288,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityMax|/AwakeEventData/SPSBQMSPSv1/Acquisition||3127.8682|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityMaxThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||6000.0|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityMean|/AwakeEventData/SPSBQMSPSv1/Acquisition||3127.8682|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityMin|/AwakeEventData/SPSBQMSPSv1/Acquisition||3127.8682|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityMinThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||700.0|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityModIndex|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityModIndexOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityModIndexThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.4|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchIntensityStd|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthMax|/AwakeEventData/SPSBQMSPSv1/Acquisition||1.6434656e-09|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthMaxThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||1.8e-09|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthMean|/AwakeEventData/SPSBQMSPSv1/Acquisition||1.6434656e-09|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthMin|/AwakeEventData/SPSBQMSPSv1/Acquisition||1.6434656e-09|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthMinThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthStd|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthStdOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengthStdThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||6e-10|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchLengths|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(288,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakMax|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.36200088|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakMaxThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.5|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakMean|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.36200088|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakMin|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.36200088|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakMinThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakStd|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakStdOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeakStdThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.1|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPeaks|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(288,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/bunchPositions|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(288,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/diagnostic|/AwakeEventData/SPSBQMSPSv1/Acquisition||1000|(1,)|int16
+/AwakeEventData/SPSBQMSPSv1/Acquisition/doubletIntensitySplitOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/doublets|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/filledBuckets|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(288,)|int32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/firstBunchPositionOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/isTrailingDoublet|/AwakeEventData/SPSBQMSPSv1/Acquisition|{'bitFieldSize': '1'}||(0,)|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nAllowedLongBunches|/AwakeEventData/SPSBQMSPSv1/Acquisition||0|(1,)|int16
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nBunches|/AwakeEventData/SPSBQMSPSv1/Acquisition||1|(1,)|int32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nBunchesMax|/AwakeEventData/SPSBQMSPSv1/Acquisition||1|(1,)|int16
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nBunchesMaxOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nBunchesRamp|/AwakeEventData/SPSBQMSPSv1/Acquisition||1|(1,)|int32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nSatellitesIntensity|/AwakeEventData/SPSBQMSPSv1/Acquisition||0|(1,)|int32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nSatellitesMidBucket|/AwakeEventData/SPSBQMSPSv1/Acquisition||0|(1,)|int32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nTooLongBunches|/AwakeEventData/SPSBQMSPSv1/Acquisition||0|(1,)|int16
+/AwakeEventData/SPSBQMSPSv1/Acquisition/nWarningMessages|/AwakeEventData/SPSBQMSPSv1/Acquisition||1|(1,)|int16
+/AwakeEventData/SPSBQMSPSv1/Acquisition/oscillationPercentDeltaMax|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.533627|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/oscillationPercentDeltaMaxThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.3|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/oscillationPercentDeltas|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.53466666|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/oscillationPercentPeakMax|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.9813333|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/oscillationPercentPeakMaxThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.099999994|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/patternOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/satelliteBucketsIntensity|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(4620,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/satelliteBucketsMid|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(4620,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/satellitesIntensityThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.08|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/satellitesMidBucketThr|/AwakeEventData/SPSBQMSPSv1/Acquisition||0.04|(1,)|float32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/satellitesOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/stabilityOk|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/tgmNLSQCTL|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/tgmSCNUM|/AwakeEventData/SPSBQMSPSv1/Acquisition||8|(1,)|int32
+/AwakeEventData/SPSBQMSPSv1/Acquisition/verifyPattern|/AwakeEventData/SPSBQMSPSv1/Acquisition|||()|
+/AwakeEventData/SPSBQMSPSv1/Acquisition/warningMessages|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(50,)|"|S48"
+/AwakeEventData/SPSBQMSPSv1/Acquisition/wrongBuckets|/AwakeEventData/SPSBQMSPSv1/Acquisition|||(288,)|int32
+/AwakeEventData/SPSBQMSPSv1/RawWavesFTAcquisition/rawWaveFT|/AwakeEventData/SPSBQMSPSv1/RawWavesFTAcquisition|"{'exception': 'False', 'acqStamp': '1541974912499000000', 'comment': ""b'SPS longitudinal bunch waveform'""}"||(80000,)|int16
+/AwakeEventData/SR.AWGAMP/Status/position|/AwakeEventData/SR.AWGAMP/Status|"{'exception': 'False', 'acqStamp': '1541974916835380000', 'comment': ""b'Waveguide attenuator position'""}"|180|(1,)|int64
+/AwakeEventData/SR.AWGPH/Status/position|/AwakeEventData/SR.AWGPH/Status|"{'exception': 'False', 'acqStamp': '1541974916835380000', 'comment': ""b'Waveguide phase position'""}"|340|(1,)|int64
+/AwakeEventData/SR.AWINTLK/PhaseAcq/phaseShifter|/AwakeEventData/SR.AWINTLK/PhaseAcq|"{'exception': 'False', 'acqStamp': '1541974917098971000', 'comment': ""b'Klystron RF Phase'""}"|156.5|(1,)|float32
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/CTime|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||5558|(1,)|int32
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||4892|(1,)|int32
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||5558537473|(1,)|int64
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||-16.711111|(1,)|float32
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/offset|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||0.35526314|(1,)|float32
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||0.25|(1,)|float32
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||1.5259022e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/triggerError|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||-0.2245736|(1,)|float32
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||1541974912493537473|(1,)|int64
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/value|/AwakeEventData/SR.SCOPE27.CH01/Acquisition|||(1, 320)|int16
+/AwakeEventData/SR.SCOPE27.CH01/Acquisition/value_units|/AwakeEventData/SR.SCOPE27.CH01/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/CTime|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||5558|(1,)|int32
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||4892|(1,)|int32
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||5558537569|(1,)|int64
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||-16.711111|(1,)|float32
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/offset|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||0.3640351|(1,)|float32
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||0.25|(1,)|float32
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||1.5259022e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/triggerError|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||-0.23061843|(1,)|float32
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||1541974912493537569|(1,)|int64
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/value|/AwakeEventData/SR.SCOPE28.CH01/Acquisition|||(1, 320)|int16
+/AwakeEventData/SR.SCOPE28.CH01/Acquisition/value_units|/AwakeEventData/SR.SCOPE28.CH01/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/CTime|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||5558|(1,)|int32
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||4892|(1,)|int32
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||5558534992|(1,)|int64
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||-16.711111|(1,)|float32
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/offset|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||0.36842105|(1,)|float32
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||0.25|(1,)|float32
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||1.5259022e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/triggerError|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||-0.13917577|(1,)|float32
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||1541974912493534992|(1,)|int64
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/value|/AwakeEventData/SR.SCOPE29.CH01/Acquisition|||(1, 320)|int16
+/AwakeEventData/SR.SCOPE29.CH01/Acquisition/value_units|/AwakeEventData/SR.SCOPE29.CH01/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/CTime|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||5558|(1,)|int32
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||4892|(1,)|int32
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||5558552803|(1,)|int64
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||-1000.0|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/offset|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||0.065789476|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||0.5|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||1.5259022e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/triggerError|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||-0.3847302|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||1541974912493552803|(1,)|int64
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/value|/AwakeEventData/SR.SCOPE30.CH01/Acquisition|||(1, 4000)|int16
+/AwakeEventData/SR.SCOPE30.CH01/Acquisition/value_units|/AwakeEventData/SR.SCOPE30.CH01/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/CTime|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||5558|(1,)|int32
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||4892|(1,)|int32
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||5558552803|(1,)|int64
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||-1000.0|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/offset|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||0.16447368|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||0.5|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||7.629511e-06|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/triggerError|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||-0.3847302|(1,)|float32
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||1541974912493552803|(1,)|int64
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/value|/AwakeEventData/SR.SCOPE30.CH02/Acquisition|||(1, 4000)|int16
+/AwakeEventData/SR.SCOPE30.CH02/Acquisition/value_units|/AwakeEventData/SR.SCOPE30.CH02/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/CTime|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||2972|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||2972178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/offset|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||3.0518044e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/triggerError|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||1541974917107178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/value|/AwakeEventData/SR.SCOPE43.CH01/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE43.CH01/Acquisition/value_units|/AwakeEventData/SR.SCOPE43.CH01/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/CTime|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||2972|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||2972178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/offset|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||7.629511e-06|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/triggerError|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||1541974917107178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/value|/AwakeEventData/SR.SCOPE43.CH02/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE43.CH02/Acquisition/value_units|/AwakeEventData/SR.SCOPE43.CH02/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/CTime|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||2972|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||2972178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/offset|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||3.0518044e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/triggerError|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||1541974917107178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/value|/AwakeEventData/SR.SCOPE43.CH03/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE43.CH03/Acquisition/value_units|/AwakeEventData/SR.SCOPE43.CH03/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/CTime|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||2972|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||2972178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/offset|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||3.0518045e-06|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/triggerError|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||1541974917107178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/value|/AwakeEventData/SR.SCOPE43.CH04/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE43.CH04/Acquisition/value_units|/AwakeEventData/SR.SCOPE43.CH04/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/CTime|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||2972|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||2972178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/offset|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||3.0518044e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/triggerError|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||1541974917107178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/value|/AwakeEventData/SR.SCOPE43.CH05/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE43.CH05/Acquisition/value_units|/AwakeEventData/SR.SCOPE43.CH05/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/CTime|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||2972|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||2972178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/offset|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||-0.047368422|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||7.9365077|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||7.629511e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/triggerError|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||1541974917107178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/value|/AwakeEventData/SR.SCOPE43.CH06/Acquisition|||(1, 252)|int16
+/AwakeEventData/SR.SCOPE43.CH06/Acquisition/value_units|/AwakeEventData/SR.SCOPE43.CH06/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/CTime|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||2972|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||2972178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/offset|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||-0.03508772|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||1.5259022e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/triggerError|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||1541974917107178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/value|/AwakeEventData/SR.SCOPE43.CH07/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE43.CH07/Acquisition/value_units|/AwakeEventData/SR.SCOPE43.CH07/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/CTime|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||2972|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||2972178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/offset|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||0.010964912|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||7.9365077|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||1.5259022e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/triggerError|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||1541974917107178325|(1,)|int64
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/value|/AwakeEventData/SR.SCOPE43.CH08/Acquisition|||(1, 252)|int16
+/AwakeEventData/SR.SCOPE43.CH08/Acquisition/value_units|/AwakeEventData/SR.SCOPE43.CH08/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/CTime|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||2976|(1,)|int32
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||2976242400|(1,)|int64
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/offset|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||7.629511e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/triggerError|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||1541974917111242400|(1,)|int64
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/value|/AwakeEventData/SR.SCOPE45.CH01/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE45.CH01/Acquisition/value_units|/AwakeEventData/SR.SCOPE45.CH01/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/CTime|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||2976|(1,)|int32
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||2976242400|(1,)|int64
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/offset|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||7.629511e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/triggerError|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||1541974917111242400|(1,)|int64
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/value|/AwakeEventData/SR.SCOPE45.CH02/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE45.CH02/Acquisition/value_units|/AwakeEventData/SR.SCOPE45.CH02/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/CTime|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||2976|(1,)|int32
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||2976242400|(1,)|int64
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/offset|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||7.629511e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/triggerError|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||1541974917111242400|(1,)|int64
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/value|/AwakeEventData/SR.SCOPE45.CH03/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE45.CH03/Acquisition/value_units|/AwakeEventData/SR.SCOPE45.CH03/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/CTime|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||2976|(1,)|int32
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/cycleTag|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||23842|(1,)|int32
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/diffStamps|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||2976242400|(1,)|int64
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/firstSampleTime|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/offset|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||-0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/sampleInterval|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||5.681818|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/sensitivity|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||7.629511e-05|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/triggerError|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||0.0|(1,)|float32
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/triggerStamp|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||1541974917111242400|(1,)|int64
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/value|/AwakeEventData/SR.SCOPE45.CH04/Acquisition|||(1, 352)|int16
+/AwakeEventData/SR.SCOPE45.CH04/Acquisition/value_units|/AwakeEventData/SR.SCOPE45.CH04/Acquisition||b'V'|(1,)|"|S1"
+/AwakeEventData/Sps2AwakeSynchro/ProtonDelayNs/delay|/AwakeEventData/Sps2AwakeSynchro/ProtonDelayNs|"{'exception': 'False', 'acqStamp': '1541974621432000000', 'comment': ""b'SPS Laser delay'""}"|1111685.6500000001|(1,)|float64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/channelRead|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead||1|(1,)|int32
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/dataAxis|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead|||(5000,)|float64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/dataValue|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead|||(5000,)|float64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/fileCount|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead||1|(1,)|int32
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/fileName|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead||b'20181109_182112204Wfm_Ch1.csv'|(1,)|"|S29"
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/fileReadDelay|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead||692316000|(1,)|int64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/fileTime|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead||1541784162000000000|(1,)|int64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/headerName|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead|||(100,)|"|S17"
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead/headerValue|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH1/FileRead|||(100,)|"|S16"
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/channelRead|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead||2|(1,)|int32
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/dataAxis|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead|||(5000,)|float64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/dataValue|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead|||(5000,)|float64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/fileCount|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead||1|(1,)|int32
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/fileName|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead||b'20181109_104126820Wfm_Ch2.csv'|(1,)|"|S29"
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/fileReadDelay|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead||1707940000|(1,)|int64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/fileTime|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead||1541756576000000000|(1,)|int64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/headerName|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead|||(100,)|"|S17"
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead/headerValue|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH2/FileRead|||(100,)|"|S16"
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH3/FileRead|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH3|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'Fast scope ch3'""}"||()|
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/channelRead|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead||4|(1,)|int32
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/dataAxis|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead|||(2000,)|float64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/dataValue|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead|||(2000,)|float64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/fileCount|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead||1|(1,)|int32
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/fileName|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead||b'20180924_191336709Wfm_Ch4.csv'|(1,)|"|S29"
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/fileReadDelay|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead||578203000|(1,)|int64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/fileTime|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead||1537809336000000000|(1,)|int64
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/headerName|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead|||(100,)|"|S17"
+/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead/headerValue|/AwakeEventData/TCC4.AWAKE-SCOPE-CTR.CH4/FileRead|||(100,)|"|S16"
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/dataAcquisitionTime|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead||1541974912000000000|(1,)|int64
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/dataAmplitude|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead|||(768,)|float64
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/dataDelay|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead|||(768,)|float64
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/dataImage|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead|||(768, 576)|int16
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/fileCount|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead||1|(1,)|int32
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/fileName|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead||b'AutoCorr26723.bin'|(1,)|"|S17"
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/fileTime|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead||1541974912000000000|(1,)|int64
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/fittedAmplitude|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead|||(768,)|float64
+/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead/pulseWidth|/AwakeEventData/TSG40.AWAKE-LASER-CORRELATOR/FileRead||4942.697355799016|(1,)|float64
+/AwakeEventData/TSG41.AWAKE-CTR-PHOTOMIXER/NameAcquisition/nameValue|/AwakeEventData/TSG41.AWAKE-CTR-PHOTOMIXER/NameAcquisition|"{'exception': 'False', 'acqStamp': '1539167113064837000', 'comment': ""b'Photomixer virtual variables'""}"||(100,)|"|S45"
+/AwakeEventData/TSG41.AWAKE-CTR-PHOTOMIXER/ValueAcquisition/floatValue|/AwakeEventData/TSG41.AWAKE-CTR-PHOTOMIXER/ValueAcquisition|"{'exception': 'False', 'acqStamp': '1539167113067052000', 'comment': ""b'Photomixer virtual variables'""}"||(100,)|float64
+/AwakeEventData/TSG41.AWAKE-CTR-WR4-WR8-MIXERS/NameAcquisition/nameValue|/AwakeEventData/TSG41.AWAKE-CTR-WR4-WR8-MIXERS/NameAcquisition|"{'exception': 'False', 'acqStamp': '1537256331023949000', 'comment': ""b'CTR waveguide heterodyne mixer'""}"||(100,)|"|S19"
+/AwakeEventData/TSG41.AWAKE-CTR-WR4-WR8-MIXERS/ValueAcquisition/floatValue|/AwakeEventData/TSG41.AWAKE-CTR-WR4-WR8-MIXERS/ValueAcquisition|"{'exception': 'False', 'acqStamp': '1541784162914666000', 'comment': ""b'CTR waveguide heterodyne mixer'""}"||(100,)|float64
+/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead/fileCount|/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead||1|(1,)|int32
+/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead/fileName|/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead||b'HP_fLO_setting_WR4_1541780435000000000.txt'|(1,)|"|S42"
+/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead/fileReadDelay|/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead||881274000|(1,)|int64
+/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead/fileTime|/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead||1541784042000000000|(1,)|int64
+/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead/floatValue|/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead||19.6|(1,)|float64
+/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead/integerValue|/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead||0|(1,)|int64
+/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead/stringValue|/AwakeEventData/TSG41.AWAKE-CTRHET-VDI/FileRead||b'19.6'|(1,)|"|S4"
+/AwakeEventData/TSG41.AWAKE-CTRHET-WR8/FileRead|/AwakeEventData/TSG41.AWAKE-CTRHET-WR8|"{'exception': 'True', 'acqStamp': '0', 'comment': ""b'CTR WR8'""}"||()|
+/AwakeEventData/TSG41.AWAKE-DENSITY-DATA/NameAcquisition/nameValue|/AwakeEventData/TSG41.AWAKE-DENSITY-DATA/NameAcquisition|"{'exception': 'False', 'acqStamp': '1537256330540032000', 'comment': ""b'Rb density data'""}"||(100,)|"|S18"
+/AwakeEventData/TSG41.AWAKE-DENSITY-DATA/ValueAcquisition/floatValue|/AwakeEventData/TSG41.AWAKE-DENSITY-DATA/ValueAcquisition|"{'exception': 'False', 'acqStamp': '1541769471977674000', 'comment': ""b'Rb density data'""}"||(100,)|float64
+/AwakeEventData/TSG41.AWAKE-GUI-SUPPORT/NameAcquisition/nameValue|/AwakeEventData/TSG41.AWAKE-GUI-SUPPORT/NameAcquisition|"{'exception': 'False', 'acqStamp': '1537256330490695000', 'comment': ""b'Camera Info'""}"||(100,)|"|S20"
+/AwakeEventData/TSG41.AWAKE-GUI-SUPPORT/ValueAcquisition/floatValue|/AwakeEventData/TSG41.AWAKE-GUI-SUPPORT/ValueAcquisition|"{'exception': 'False', 'acqStamp': '1541973854717187000', 'comment': ""b'Camera Info'""}"||(100,)|float64
+/AwakeEventData/TSG41.AWAKE-LASER-DATA/NameAcquisition/nameValue|/AwakeEventData/TSG41.AWAKE-LASER-DATA/NameAcquisition|"{'exception': 'False', 'acqStamp': '1541974897413366000', 'comment': ""b'Laser data variable names'""}"||(100,)|"|S55"
+/AwakeEventData/TSG41.AWAKE-LASER-DATA/ValueAcquisition/floatValue|/AwakeEventData/TSG41.AWAKE-LASER-DATA/ValueAcquisition|"{'exception': 'False', 'acqStamp': '1541974897414937000', 'comment': ""b'Laser data values'""}"||(100,)|float64
+/AwakeEventData/TSG41.AWAKE-TWO-SCREEN-MEAS/NameAcquisition/nameValue|/AwakeEventData/TSG41.AWAKE-TWO-SCREEN-MEAS/NameAcquisition|"{'exception': 'False', 'acqStamp': '1537256330970352000', 'comment': ""b'Princess Marlenes Calculation'""}"||(100,)|"|S19"
+/AwakeEventData/TSG41.AWAKE-TWO-SCREEN-MEAS/ValueAcquisition/floatValue|/AwakeEventData/TSG41.AWAKE-TWO-SCREEN-MEAS/ValueAcquisition|"{'exception': 'False', 'acqStamp': '1537256331008120000', 'comment': ""b'Princess Marlenes Calculation'""}"||(100,)|float64
+/AwakeEventData/TSG41.AWAKE-XMPP-FFTFREQ/NameAcquisition/nameValue|/AwakeEventData/TSG41.AWAKE-XMPP-FFTFREQ/NameAcquisition|"{'exception': 'False', 'acqStamp': '1537256330474888000', 'comment': ""b'King Karls Calculation'""}"||(100,)|"|S16"
+/AwakeEventData/TSG41.AWAKE-XMPP-FFTFREQ/ValueAcquisition/floatValue|/AwakeEventData/TSG41.AWAKE-XMPP-FFTFREQ/ValueAcquisition|"{'exception': 'False', 'acqStamp': '1537256330584830000', 'comment': ""b'King Karls Calculation'""}"||(100,)|float64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/dataAcquisitionTime|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead||1541437701000000000|(1,)|int64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/dataAxis|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead|||(3648,)|float64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/dataValue|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead|||(3648,)|float64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/fileCount|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead||1|(1,)|int32
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/fileName|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead||b'85laser_110ms_011118_HR4D4202_0000035135.txt'|(1,)|"|S44"
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/fileReadDelay|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead||0|(1,)|int64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/fileTime|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead||1541437701000000000|(1,)|int64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/headerName|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead|||(11,)|"|S32"
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/headerValue|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead|||(11,)|"|S28"
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead/nPixels|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-DOWN/FileRead||3648|(1,)|int32
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/dataAcquisitionTime|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead||1541437697000000000|(1,)|int64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/dataAxis|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead|||(3648,)|float64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/dataValue|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead|||(3648,)|float64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/fileCount|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead||1|(1,)|int32
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/fileName|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead||b'85laser_33ms_011118_HR4D4171_0000031904.txt'|(1,)|"|S43"
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/fileReadDelay|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead||0|(1,)|int64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/fileTime|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead||1541437697000000000|(1,)|int64
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/headerName|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead|||(11,)|"|S32"
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/headerValue|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead|||(11,)|"|S28"
+/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead/nPixels|/AwakeEventData/TT41.AWAKE-PLASMA-SPECTRO-UP/FileRead||3648|(1,)|int32
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/FileTime|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead||1541974913000000000|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/dataAcquisitionTime|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead||1900|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/dataAxis|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/dataValue1|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/dataValue2|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/dataValue3|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/dataValue4|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/fileCount|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead||1|(1,)|int32
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/fileName|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead||b'20180518-0001.txt'|(1,)|"|S17"
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/fileReadDelay|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead||0|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/headerName|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead|||(100,)|"|S1"
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/headerValue|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead|||(100,)|"|S1"
+/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead/nPixels|/AwakeEventData/TT41.AWAKE-eBLM-pico1/FileRead||0|(1,)|int32
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/FileTime|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead||1541974914000000000|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/dataAcquisitionTime|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead||1900|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/dataAxis|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/dataValue1|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/dataValue2|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/dataValue3|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/dataValue4|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/fileCount|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead||1|(1,)|int32
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/fileName|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead||b'20180518-0001.txt'|(1,)|"|S17"
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/fileReadDelay|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead||0|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/headerName|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead|||(100,)|"|S1"
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/headerValue|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead|||(100,)|"|S1"
+/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead/nPixels|/AwakeEventData/TT41.AWAKE-eBLM-pico2/FileRead||0|(1,)|int32
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/FileTime|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead||1541974913000000000|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/dataAcquisitionTime|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead||1900|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/dataAxis|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/dataValue1|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/dataValue2|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/dataValue3|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/dataValue4|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead|||(785,)|float64
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/fileCount|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead||1|(1,)|int32
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/fileName|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead||b'20180518-0001.txt'|(1,)|"|S17"
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/fileReadDelay|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead||0|(1,)|int64
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/headerName|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead|||(100,)|"|S1"
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/headerValue|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead|||(100,)|"|S1"
+/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead/nPixels|/AwakeEventData/TT41.AWAKE-eBLM-pico3/FileRead||0|(1,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/acqTime|/AwakeEventData/TT41.BCTF.412340/Acquisition||b'2018/11/11 22:21:52.503000'|(1,)|"|S26"
+/AwakeEventData/TT41.BCTF.412340/Acquisition/beamDestinationStr|/AwakeEventData/TT41.BCTF.412340/Acquisition||b'AWAKE'|(1,)|"|S5"
+/AwakeEventData/TT41.BCTF.412340/Acquisition/beamID|/AwakeEventData/TT41.BCTF.412340/Acquisition||0|(1,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calResultCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition|||(2,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calResultCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition|||(2,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calStatusCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition||2|(1,)|int16
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calStatusCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition||2|(1,)|int16
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calibrationFactorCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition||20.637636|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calibrationFactorCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition||65256.207|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calibratorIMeasuredCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition||4.22621|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calibratorIMeasuredCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition||0.0|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/calibratorVActual|/AwakeEventData/TT41.BCTF.412340/Acquisition||30.317999|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/commonStatus|/AwakeEventData/TT41.BCTF.412340/Acquisition||8510|(1,)|int16
+/AwakeEventData/TT41.BCTF.412340/Acquisition/cycleTime|/AwakeEventData/TT41.BCTF.412340/Acquisition||b'2018/11/11 22:21:46.935000'|(1,)|"|S26"
+/AwakeEventData/TT41.BCTF.412340/Acquisition/descriptionCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition||b'\x05'|(1,)|"|S1"
+/AwakeEventData/TT41.BCTF.412340/Acquisition/descriptionCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition||b'\x05'|(1,)|"|S1"
+/AwakeEventData/TT41.BCTF.412340/Acquisition/inputOffsetCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition||-56|(1,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/inputOffsetCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition||-143|(1,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/measResultCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition|||(32,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/measResultCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition|||(32,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/measStatusCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition||2|(1,)|int16
+/AwakeEventData/TT41.BCTF.412340/Acquisition/measStatusCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition||2|(1,)|int16
+/AwakeEventData/TT41.BCTF.412340/Acquisition/nbOfMeas|/AwakeEventData/TT41.BCTF.412340/Acquisition||1|(1,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/totalCurrentPreferred|/AwakeEventData/TT41.BCTF.412340/Acquisition||0.05949164|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/totalIntensityAutoCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition||25.9951|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/totalIntensityAutoCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition||19.5768|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/totalIntensityCalcCh1|/AwakeEventData/TT41.BCTF.412340/Acquisition||25.995167|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/totalIntensityCalcCh2|/AwakeEventData/TT41.BCTF.412340/Acquisition||19.576862|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/totalIntensityPreferred|/AwakeEventData/TT41.BCTF.412340/Acquisition||25.9951|(1,)|float32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/totalIntensity_unit|/AwakeEventData/TT41.BCTF.412340/Acquisition||6|(1,)|int32
+/AwakeEventData/TT41.BCTF.412340/Acquisition/totalIntensity_unitExponent|/AwakeEventData/TT41.BCTF.412340/Acquisition||10|(1,)|int32
+/AwakeEventData/TT41.BPM.412343/Acquisition/horAvePos|/AwakeEventData/TT41.BPM.412343/Acquisition||0.20930317|(1,)|float32
+/AwakeEventData/TT41.BPM.412343/Acquisition/horPos|/AwakeEventData/TT41.BPM.412343/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412343/Acquisition/posOK|/AwakeEventData/TT41.BPM.412343/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT41.BPM.412343/Acquisition/sigma|/AwakeEventData/TT41.BPM.412343/Acquisition|||(12,)|int32
+/AwakeEventData/TT41.BPM.412343/Acquisition/sigmaAvePos|/AwakeEventData/TT41.BPM.412343/Acquisition||2407.0|(1,)|float32
+/AwakeEventData/TT41.BPM.412343/Acquisition/spsExtraction|/AwakeEventData/TT41.BPM.412343/Acquisition|||()|
+/AwakeEventData/TT41.BPM.412343/Acquisition/spsExtractionIndex|/AwakeEventData/TT41.BPM.412343/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BPM.412343/Acquisition/verAvePos|/AwakeEventData/TT41.BPM.412343/Acquisition||-0.4382022|(1,)|float32
+/AwakeEventData/TT41.BPM.412343/Acquisition/verPos|/AwakeEventData/TT41.BPM.412343/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412345/Acquisition/horAvePos|/AwakeEventData/TT41.BPM.412345/Acquisition||1.440126|(1,)|float32
+/AwakeEventData/TT41.BPM.412345/Acquisition/horPos|/AwakeEventData/TT41.BPM.412345/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412345/Acquisition/posOK|/AwakeEventData/TT41.BPM.412345/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT41.BPM.412345/Acquisition/sigma|/AwakeEventData/TT41.BPM.412345/Acquisition|||(12,)|int32
+/AwakeEventData/TT41.BPM.412345/Acquisition/sigmaAvePos|/AwakeEventData/TT41.BPM.412345/Acquisition||2471.0|(1,)|float32
+/AwakeEventData/TT41.BPM.412345/Acquisition/spsExtraction|/AwakeEventData/TT41.BPM.412345/Acquisition|||()|
+/AwakeEventData/TT41.BPM.412345/Acquisition/spsExtractionIndex|/AwakeEventData/TT41.BPM.412345/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BPM.412345/Acquisition/verAvePos|/AwakeEventData/TT41.BPM.412345/Acquisition||-0.32082188|(1,)|float32
+/AwakeEventData/TT41.BPM.412345/Acquisition/verPos|/AwakeEventData/TT41.BPM.412345/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412347/Acquisition/horAvePos|/AwakeEventData/TT41.BPM.412347/Acquisition||1.4498128|(1,)|float32
+/AwakeEventData/TT41.BPM.412347/Acquisition/horPos|/AwakeEventData/TT41.BPM.412347/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412347/Acquisition/posOK|/AwakeEventData/TT41.BPM.412347/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT41.BPM.412347/Acquisition/sigma|/AwakeEventData/TT41.BPM.412347/Acquisition|||(12,)|int32
+/AwakeEventData/TT41.BPM.412347/Acquisition/sigmaAvePos|/AwakeEventData/TT41.BPM.412347/Acquisition||2189.0|(1,)|float32
+/AwakeEventData/TT41.BPM.412347/Acquisition/spsExtraction|/AwakeEventData/TT41.BPM.412347/Acquisition|||()|
+/AwakeEventData/TT41.BPM.412347/Acquisition/spsExtractionIndex|/AwakeEventData/TT41.BPM.412347/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BPM.412347/Acquisition/verAvePos|/AwakeEventData/TT41.BPM.412347/Acquisition||7.9067025|(1,)|float32
+/AwakeEventData/TT41.BPM.412347/Acquisition/verPos|/AwakeEventData/TT41.BPM.412347/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412349/Acquisition/horAvePos|/AwakeEventData/TT41.BPM.412349/Acquisition||-1.079247|(1,)|float32
+/AwakeEventData/TT41.BPM.412349/Acquisition/horPos|/AwakeEventData/TT41.BPM.412349/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412349/Acquisition/posOK|/AwakeEventData/TT41.BPM.412349/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT41.BPM.412349/Acquisition/sigma|/AwakeEventData/TT41.BPM.412349/Acquisition|||(12,)|int32
+/AwakeEventData/TT41.BPM.412349/Acquisition/sigmaAvePos|/AwakeEventData/TT41.BPM.412349/Acquisition||2309.0|(1,)|float32
+/AwakeEventData/TT41.BPM.412349/Acquisition/spsExtraction|/AwakeEventData/TT41.BPM.412349/Acquisition|||()|
+/AwakeEventData/TT41.BPM.412349/Acquisition/spsExtractionIndex|/AwakeEventData/TT41.BPM.412349/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BPM.412349/Acquisition/verAvePos|/AwakeEventData/TT41.BPM.412349/Acquisition||8.765642|(1,)|float32
+/AwakeEventData/TT41.BPM.412349/Acquisition/verPos|/AwakeEventData/TT41.BPM.412349/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/horAvePos|/AwakeEventData/TT41.BPM.412349_HF/Acquisition||nan|(1,)|float32
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/horPos|/AwakeEventData/TT41.BPM.412349_HF/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/posOK|/AwakeEventData/TT41.BPM.412349_HF/Acquisition|{'bitFieldSize': '12'}||(0,)|
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/sigma|/AwakeEventData/TT41.BPM.412349_HF/Acquisition|||(12,)|int32
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/sigmaAvePos|/AwakeEventData/TT41.BPM.412349_HF/Acquisition||0.0|(1,)|float32
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/spsExtraction|/AwakeEventData/TT41.BPM.412349_HF/Acquisition|||()|
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/spsExtractionIndex|/AwakeEventData/TT41.BPM.412349_HF/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/verAvePos|/AwakeEventData/TT41.BPM.412349_HF/Acquisition||nan|(1,)|float32
+/AwakeEventData/TT41.BPM.412349_HF/Acquisition/verPos|/AwakeEventData/TT41.BPM.412349_HF/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412351/Acquisition/horAvePos|/AwakeEventData/TT41.BPM.412351/Acquisition||-0.15897575|(1,)|float32
+/AwakeEventData/TT41.BPM.412351/Acquisition/horPos|/AwakeEventData/TT41.BPM.412351/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412351/Acquisition/posOK|/AwakeEventData/TT41.BPM.412351/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT41.BPM.412351/Acquisition/sigma|/AwakeEventData/TT41.BPM.412351/Acquisition|||(12,)|int32
+/AwakeEventData/TT41.BPM.412351/Acquisition/sigmaAvePos|/AwakeEventData/TT41.BPM.412351/Acquisition||2394.0|(1,)|float32
+/AwakeEventData/TT41.BPM.412351/Acquisition/spsExtraction|/AwakeEventData/TT41.BPM.412351/Acquisition|||()|
+/AwakeEventData/TT41.BPM.412351/Acquisition/spsExtractionIndex|/AwakeEventData/TT41.BPM.412351/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BPM.412351/Acquisition/verAvePos|/AwakeEventData/TT41.BPM.412351/Acquisition||7.1278124|(1,)|float32
+/AwakeEventData/TT41.BPM.412351/Acquisition/verPos|/AwakeEventData/TT41.BPM.412351/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/horAvePos|/AwakeEventData/TT41.BPM.412351_HF/Acquisition||nan|(1,)|float32
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/horPos|/AwakeEventData/TT41.BPM.412351_HF/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/posOK|/AwakeEventData/TT41.BPM.412351_HF/Acquisition|{'bitFieldSize': '12'}||(0,)|
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/sigma|/AwakeEventData/TT41.BPM.412351_HF/Acquisition|||(12,)|int32
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/sigmaAvePos|/AwakeEventData/TT41.BPM.412351_HF/Acquisition||0.0|(1,)|float32
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/spsExtraction|/AwakeEventData/TT41.BPM.412351_HF/Acquisition|||()|
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/spsExtractionIndex|/AwakeEventData/TT41.BPM.412351_HF/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/verAvePos|/AwakeEventData/TT41.BPM.412351_HF/Acquisition||nan|(1,)|float32
+/AwakeEventData/TT41.BPM.412351_HF/Acquisition/verPos|/AwakeEventData/TT41.BPM.412351_HF/Acquisition|||(12,)|float32
+/AwakeEventData/TT41.BTV.412350/Acquisition/acqCounter|/AwakeEventData/TT41.BTV.412350/Acquisition||13804|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/acqDesc|/AwakeEventData/TT41.BTV.412350/Acquisition||b'RTT ACQ'|(1,)|"|S7"
+/AwakeEventData/TT41.BTV.412350/Acquisition/acqMsg|/AwakeEventData/TT41.BTV.412350/Acquisition||b'OK'|(1,)|"|S2"
+/AwakeEventData/TT41.BTV.412350/Acquisition/acqState|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/acqTime|/AwakeEventData/TT41.BTV.412350/Acquisition||b'2018/11/11 22:21:52.473185'|(1,)|"|S26"
+/AwakeEventData/TT41.BTV.412350/Acquisition/acqTimeInCycle|/AwakeEventData/TT41.BTV.412350/Acquisition||5537.0|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/amplitudeSet1|/AwakeEventData/TT41.BTV.412350/Acquisition||17077.560471293662|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/amplitudeSet2|/AwakeEventData/TT41.BTV.412350/Acquisition||3327.873078182954|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/beamID|/AwakeEventData/TT41.BTV.412350/Acquisition||47254|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/cameraOffset|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/cameraOffset_max|/AwakeEventData/TT41.BTV.412350/Acquisition||2000|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/cameraOffset_min|/AwakeEventData/TT41.BTV.412350/Acquisition||-2000|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/cameraSwitch|/AwakeEventData/TT41.BTV.412350/Acquisition||3|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/cameraZoom|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/cycleTime|/AwakeEventData/TT41.BTV.412350/Acquisition||b'1970/01/01 00:00:00.000000'|(1,)|"|S26"
+/AwakeEventData/TT41.BTV.412350/Acquisition/descSet1|/AwakeEventData/TT41.BTV.412350/Acquisition||b'Horizontal projection'|(1,)|"|S21"
+/AwakeEventData/TT41.BTV.412350/Acquisition/descSet2|/AwakeEventData/TT41.BTV.412350/Acquisition||b'Vertical projection'|(1,)|"|S19"
+/AwakeEventData/TT41.BTV.412350/Acquisition/deviceName|/AwakeEventData/TT41.BTV.412350/Acquisition||b'TT41.BTV.412350'|(1,)|"|S15"
+/AwakeEventData/TT41.BTV.412350/Acquisition/filterSelect|/AwakeEventData/TT41.BTV.412350/Acquisition||3|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/filterSelectStr|/AwakeEventData/TT41.BTV.412350/Acquisition|||(4,)|"|S9"
+/AwakeEventData/TT41.BTV.412350/Acquisition/filterSelect_max|/AwakeEventData/TT41.BTV.412350/Acquisition||3|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/filterSelect_min|/AwakeEventData/TT41.BTV.412350/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/firstLamp|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/firstLamp_max|/AwakeEventData/TT41.BTV.412350/Acquisition||1000|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/firstLamp_min|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/leftBottomReference|/AwakeEventData/TT41.BTV.412350/Acquisition|||(2,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/leftTopReference|/AwakeEventData/TT41.BTV.412350/Acquisition|||(2,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/mire|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/nbAcq|/AwakeEventData/TT41.BTV.412350/Acquisition||1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/nbDataSets|/AwakeEventData/TT41.BTV.412350/Acquisition||2|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/nbGates|/AwakeEventData/TT41.BTV.412350/Acquisition||1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/nbPtsPerProjInSet1|/AwakeEventData/TT41.BTV.412350/Acquisition||400|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/nbPtsPerProjInSet2|/AwakeEventData/TT41.BTV.412350/Acquisition||300|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/observables|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/offsetCalSet1|/AwakeEventData/TT41.BTV.412350/Acquisition|||(4,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/offsetCalSet2|/AwakeEventData/TT41.BTV.412350/Acquisition|||(4,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/offsetSet1|/AwakeEventData/TT41.BTV.412350/Acquisition||[9878.6498269]|(1, 1)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/offsetSet2|/AwakeEventData/TT41.BTV.412350/Acquisition||[13259.96422597]|(1, 1)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/pixelCalSet1|/AwakeEventData/TT41.BTV.412350/Acquisition|||(4,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/pixelCalSet2|/AwakeEventData/TT41.BTV.412350/Acquisition|||(4,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/planeSet1|/AwakeEventData/TT41.BTV.412350/Acquisition||1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/planeSet2|/AwakeEventData/TT41.BTV.412350/Acquisition||2|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/positionSet1|/AwakeEventData/TT41.BTV.412350/Acquisition||-1.5608640753883702|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/positionSet2|/AwakeEventData/TT41.BTV.412350/Acquisition||0.9185736258339702|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/projDataSet1|/AwakeEventData/TT41.BTV.412350/Acquisition|||(1, 400)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/projDataSet2|/AwakeEventData/TT41.BTV.412350/Acquisition|||(1, 300)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/projPositionSet1|/AwakeEventData/TT41.BTV.412350/Acquisition|||(1, 400)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/projPositionSet2|/AwakeEventData/TT41.BTV.412350/Acquisition|||(1, 300)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/propType|/AwakeEventData/TT41.BTV.412350/Acquisition||2|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/rightBottomReference|/AwakeEventData/TT41.BTV.412350/Acquisition|||(2,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/rightTopReference|/AwakeEventData/TT41.BTV.412350/Acquisition|||(2,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/saturationThreshold|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/screenSelect|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/screenSelectStr|/AwakeEventData/TT41.BTV.412350/Acquisition|||(4,)|"|S10"
+/AwakeEventData/TT41.BTV.412350/Acquisition/screenSelect_max|/AwakeEventData/TT41.BTV.412350/Acquisition||3|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/screenSelect_min|/AwakeEventData/TT41.BTV.412350/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/secondLamp|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/secondLamp_max|/AwakeEventData/TT41.BTV.412350/Acquisition||1000|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/secondLamp_min|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/sigmaSet1|/AwakeEventData/TT41.BTV.412350/Acquisition||0.009016265837538872|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/sigmaSet2|/AwakeEventData/TT41.BTV.412350/Acquisition||0.1335287097122735|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/superCycleNb|/AwakeEventData/TT41.BTV.412350/Acquisition||8|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Acquisition/tgSet1|/AwakeEventData/TT41.BTV.412350/Acquisition||[92.56521739]|(1, 1)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/tgSet2|/AwakeEventData/TT41.BTV.412350/Acquisition||[-66.58857143]|(1, 1)|float64
+/AwakeEventData/TT41.BTV.412350/Acquisition/userImageSelection|/AwakeEventData/TT41.BTV.412350/Acquisition|{'bitFieldSize': '7'}||(1,)|
+/AwakeEventData/TT41.BTV.412350/Acquisition/userImageSelectionNumber|/AwakeEventData/TT41.BTV.412350/Acquisition||1|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Acquisition/videoGain|/AwakeEventData/TT41.BTV.412350/Acquisition||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/acqCounter|/AwakeEventData/TT41.BTV.412350/Image||13804|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/acqDesc|/AwakeEventData/TT41.BTV.412350/Image||b'RTT ACQ'|(1,)|"|S7"
+/AwakeEventData/TT41.BTV.412350/Image/acqMsg|/AwakeEventData/TT41.BTV.412350/Image||b'OK'|(1,)|"|S2"
+/AwakeEventData/TT41.BTV.412350/Image/acqState|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/acqTime|/AwakeEventData/TT41.BTV.412350/Image||b'2018/11/11 22:21:52.473185'|(1,)|"|S26"
+/AwakeEventData/TT41.BTV.412350/Image/acqTimeInCycle|/AwakeEventData/TT41.BTV.412350/Image||5537.0|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/amplitudeSet1|/AwakeEventData/TT41.BTV.412350/Image||17077.560471293662|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/amplitudeSet2|/AwakeEventData/TT41.BTV.412350/Image||3327.873078182954|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/beamID|/AwakeEventData/TT41.BTV.412350/Image||47254|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/cameraOffset|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/cameraOffset_max|/AwakeEventData/TT41.BTV.412350/Image||2000|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/cameraOffset_min|/AwakeEventData/TT41.BTV.412350/Image||-2000|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/cameraSwitch|/AwakeEventData/TT41.BTV.412350/Image||3|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/cameraZoom|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/cycleTime|/AwakeEventData/TT41.BTV.412350/Image||b'1970/01/01 00:00:00.000000'|(1,)|"|S26"
+/AwakeEventData/TT41.BTV.412350/Image/descSet1|/AwakeEventData/TT41.BTV.412350/Image||b'Horizontal projection'|(1,)|"|S21"
+/AwakeEventData/TT41.BTV.412350/Image/descSet2|/AwakeEventData/TT41.BTV.412350/Image||b'Vertical projection'|(1,)|"|S19"
+/AwakeEventData/TT41.BTV.412350/Image/deviceName|/AwakeEventData/TT41.BTV.412350/Image||b'TT41.BTV.412350'|(1,)|"|S15"
+/AwakeEventData/TT41.BTV.412350/Image/filterSelect|/AwakeEventData/TT41.BTV.412350/Image||3|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/filterSelectStr|/AwakeEventData/TT41.BTV.412350/Image|||(4,)|"|S9"
+/AwakeEventData/TT41.BTV.412350/Image/filterSelect_max|/AwakeEventData/TT41.BTV.412350/Image||3|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/filterSelect_min|/AwakeEventData/TT41.BTV.412350/Image||-1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/firstLamp|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/firstLamp_max|/AwakeEventData/TT41.BTV.412350/Image||1000|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/firstLamp_min|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/imagePositionSet1|/AwakeEventData/TT41.BTV.412350/Image|||(1, 400)|float64
+/AwakeEventData/TT41.BTV.412350/Image/imagePositionSet1_unit|/AwakeEventData/TT41.BTV.412350/Image||b'mm'|(1,)|"|S2"
+/AwakeEventData/TT41.BTV.412350/Image/imagePositionSet2|/AwakeEventData/TT41.BTV.412350/Image|||(1, 300)|float64
+/AwakeEventData/TT41.BTV.412350/Image/imagePositionSet2_unit|/AwakeEventData/TT41.BTV.412350/Image||b'mm'|(1,)|"|S2"
+/AwakeEventData/TT41.BTV.412350/Image/imageSet|/AwakeEventData/TT41.BTV.412350/Image|||(1, 120000)|int16
+/AwakeEventData/TT41.BTV.412350/Image/leftBottomReference|/AwakeEventData/TT41.BTV.412350/Image|||(2,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/leftTopReference|/AwakeEventData/TT41.BTV.412350/Image|||(2,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/mire|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/nbAcq|/AwakeEventData/TT41.BTV.412350/Image||1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/nbDataSets|/AwakeEventData/TT41.BTV.412350/Image||2|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/nbImages|/AwakeEventData/TT41.BTV.412350/Image||1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/nbPtsInSet1|/AwakeEventData/TT41.BTV.412350/Image||400|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/nbPtsInSet2|/AwakeEventData/TT41.BTV.412350/Image||300|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/observables|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/offsetCalSet1|/AwakeEventData/TT41.BTV.412350/Image|||(4,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/offsetCalSet2|/AwakeEventData/TT41.BTV.412350/Image|||(4,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/pixelCalSet1|/AwakeEventData/TT41.BTV.412350/Image|||(4,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/pixelCalSet2|/AwakeEventData/TT41.BTV.412350/Image|||(4,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/planeSet1|/AwakeEventData/TT41.BTV.412350/Image||1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/planeSet2|/AwakeEventData/TT41.BTV.412350/Image||2|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/positionSet1|/AwakeEventData/TT41.BTV.412350/Image||-1.5608640753883702|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/positionSet2|/AwakeEventData/TT41.BTV.412350/Image||0.9185736258339702|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/propType|/AwakeEventData/TT41.BTV.412350/Image||5|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/rightBottomReference|/AwakeEventData/TT41.BTV.412350/Image|||(2,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/rightTopReference|/AwakeEventData/TT41.BTV.412350/Image|||(2,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/saturationThreshold|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/screenSelect|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/screenSelectStr|/AwakeEventData/TT41.BTV.412350/Image|||(4,)|"|S10"
+/AwakeEventData/TT41.BTV.412350/Image/screenSelect_max|/AwakeEventData/TT41.BTV.412350/Image||3|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/screenSelect_min|/AwakeEventData/TT41.BTV.412350/Image||-1|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/secondLamp|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/secondLamp_max|/AwakeEventData/TT41.BTV.412350/Image||1000|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/secondLamp_min|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/sigmaSet1|/AwakeEventData/TT41.BTV.412350/Image||0.009016265837538872|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/sigmaSet2|/AwakeEventData/TT41.BTV.412350/Image||0.1335287097122735|(1,)|float64
+/AwakeEventData/TT41.BTV.412350/Image/superCycleNb|/AwakeEventData/TT41.BTV.412350/Image||8|(1,)|int32
+/AwakeEventData/TT41.BTV.412350/Image/userImageSelection|/AwakeEventData/TT41.BTV.412350/Image|{'bitFieldSize': '7'}||(1,)|
+/AwakeEventData/TT41.BTV.412350/Image/userImageSelectionNumber|/AwakeEventData/TT41.BTV.412350/Image||1|(1,)|int16
+/AwakeEventData/TT41.BTV.412350/Image/videoGain|/AwakeEventData/TT41.BTV.412350/Image||0|(1,)|int32
+/AwakeEventData/TT41.BTV.412350.STREAK/StreakImage|/AwakeEventData/TT41.BTV.412350.STREAK|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'BI Streak'""}"||()|
+/AwakeEventData/TT41.BTV.412353/Acquisition|/AwakeEventData/TT41.BTV.412353|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'Acq Properties'""}"||()|
+/AwakeEventData/TT41.BTV.412353/Image|/AwakeEventData/TT41.BTV.412353|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'Beam image'""}"||()|
+/AwakeEventData/TT41.BTV.412426/Acquisition|/AwakeEventData/TT41.BTV.412426|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'Acq Properties'""}"||()|
+/AwakeEventData/TT41.BTV.412426/Image|/AwakeEventData/TT41.BTV.412426|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'Beam image'""}"||()|
+/AwakeEventData/TT41.BTV.412442/Acquisition|/AwakeEventData/TT41.BTV.412442|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'Acq Properties'""}"||()|
+/AwakeEventData/TT41.BTV.412442/Image|/AwakeEventData/TT41.BTV.412442|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'Beam image'""}"||()|
+/AwakeEventData/TT43.BPM.430010/Acquisition/horAvePos|/AwakeEventData/TT43.BPM.430010/Acquisition||0.123146415|(1,)|float32
+/AwakeEventData/TT43.BPM.430010/Acquisition/horPos|/AwakeEventData/TT43.BPM.430010/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430010/Acquisition/posOK|/AwakeEventData/TT43.BPM.430010/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT43.BPM.430010/Acquisition/sigma|/AwakeEventData/TT43.BPM.430010/Acquisition|||(12,)|int32
+/AwakeEventData/TT43.BPM.430010/Acquisition/sigmaAvePos|/AwakeEventData/TT43.BPM.430010/Acquisition||28099.0|(1,)|float32
+/AwakeEventData/TT43.BPM.430010/Acquisition/spsExtraction|/AwakeEventData/TT43.BPM.430010/Acquisition|||()|
+/AwakeEventData/TT43.BPM.430010/Acquisition/spsExtractionIndex|/AwakeEventData/TT43.BPM.430010/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT43.BPM.430010/Acquisition/verAvePos|/AwakeEventData/TT43.BPM.430010/Acquisition||0.7493357|(1,)|float32
+/AwakeEventData/TT43.BPM.430010/Acquisition/verPos|/AwakeEventData/TT43.BPM.430010/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430028/Acquisition/horAvePos|/AwakeEventData/TT43.BPM.430028/Acquisition||-0.052222222|(1,)|float32
+/AwakeEventData/TT43.BPM.430028/Acquisition/horPos|/AwakeEventData/TT43.BPM.430028/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430028/Acquisition/posOK|/AwakeEventData/TT43.BPM.430028/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT43.BPM.430028/Acquisition/sigma|/AwakeEventData/TT43.BPM.430028/Acquisition|||(12,)|int32
+/AwakeEventData/TT43.BPM.430028/Acquisition/sigmaAvePos|/AwakeEventData/TT43.BPM.430028/Acquisition||27009.0|(1,)|float32
+/AwakeEventData/TT43.BPM.430028/Acquisition/spsExtraction|/AwakeEventData/TT43.BPM.430028/Acquisition|||()|
+/AwakeEventData/TT43.BPM.430028/Acquisition/spsExtractionIndex|/AwakeEventData/TT43.BPM.430028/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT43.BPM.430028/Acquisition/verAvePos|/AwakeEventData/TT43.BPM.430028/Acquisition||-0.009666666|(1,)|float32
+/AwakeEventData/TT43.BPM.430028/Acquisition/verPos|/AwakeEventData/TT43.BPM.430028/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430039/Acquisition/horAvePos|/AwakeEventData/TT43.BPM.430039/Acquisition||-0.0608|(1,)|float32
+/AwakeEventData/TT43.BPM.430039/Acquisition/horPos|/AwakeEventData/TT43.BPM.430039/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430039/Acquisition/posOK|/AwakeEventData/TT43.BPM.430039/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT43.BPM.430039/Acquisition/sigma|/AwakeEventData/TT43.BPM.430039/Acquisition|||(12,)|int32
+/AwakeEventData/TT43.BPM.430039/Acquisition/sigmaAvePos|/AwakeEventData/TT43.BPM.430039/Acquisition||27002.0|(1,)|float32
+/AwakeEventData/TT43.BPM.430039/Acquisition/spsExtraction|/AwakeEventData/TT43.BPM.430039/Acquisition|||()|
+/AwakeEventData/TT43.BPM.430039/Acquisition/spsExtractionIndex|/AwakeEventData/TT43.BPM.430039/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT43.BPM.430039/Acquisition/verAvePos|/AwakeEventData/TT43.BPM.430039/Acquisition||-0.006899997|(1,)|float32
+/AwakeEventData/TT43.BPM.430039/Acquisition/verPos|/AwakeEventData/TT43.BPM.430039/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430103/Acquisition/horAvePos|/AwakeEventData/TT43.BPM.430103/Acquisition||1.1546347|(1,)|float32
+/AwakeEventData/TT43.BPM.430103/Acquisition/horPos|/AwakeEventData/TT43.BPM.430103/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430103/Acquisition/posOK|/AwakeEventData/TT43.BPM.430103/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT43.BPM.430103/Acquisition/sigma|/AwakeEventData/TT43.BPM.430103/Acquisition|||(12,)|int32
+/AwakeEventData/TT43.BPM.430103/Acquisition/sigmaAvePos|/AwakeEventData/TT43.BPM.430103/Acquisition||30160.0|(1,)|float32
+/AwakeEventData/TT43.BPM.430103/Acquisition/spsExtraction|/AwakeEventData/TT43.BPM.430103/Acquisition|||()|
+/AwakeEventData/TT43.BPM.430103/Acquisition/spsExtractionIndex|/AwakeEventData/TT43.BPM.430103/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT43.BPM.430103/Acquisition/verAvePos|/AwakeEventData/TT43.BPM.430103/Acquisition||0.40774915|(1,)|float32
+/AwakeEventData/TT43.BPM.430103/Acquisition/verPos|/AwakeEventData/TT43.BPM.430103/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430129/Acquisition/horAvePos|/AwakeEventData/TT43.BPM.430129/Acquisition||-0.014400177|(1,)|float32
+/AwakeEventData/TT43.BPM.430129/Acquisition/horPos|/AwakeEventData/TT43.BPM.430129/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430129/Acquisition/posOK|/AwakeEventData/TT43.BPM.430129/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT43.BPM.430129/Acquisition/sigma|/AwakeEventData/TT43.BPM.430129/Acquisition|||(12,)|int32
+/AwakeEventData/TT43.BPM.430129/Acquisition/sigmaAvePos|/AwakeEventData/TT43.BPM.430129/Acquisition||29076.0|(1,)|float32
+/AwakeEventData/TT43.BPM.430129/Acquisition/spsExtraction|/AwakeEventData/TT43.BPM.430129/Acquisition|||()|
+/AwakeEventData/TT43.BPM.430129/Acquisition/spsExtractionIndex|/AwakeEventData/TT43.BPM.430129/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT43.BPM.430129/Acquisition/verAvePos|/AwakeEventData/TT43.BPM.430129/Acquisition||0.001499448|(1,)|float32
+/AwakeEventData/TT43.BPM.430129/Acquisition/verPos|/AwakeEventData/TT43.BPM.430129/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430203/Acquisition/horAvePos|/AwakeEventData/TT43.BPM.430203/Acquisition||0.60070145|(1,)|float32
+/AwakeEventData/TT43.BPM.430203/Acquisition/horPos|/AwakeEventData/TT43.BPM.430203/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430203/Acquisition/posOK|/AwakeEventData/TT43.BPM.430203/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT43.BPM.430203/Acquisition/sigma|/AwakeEventData/TT43.BPM.430203/Acquisition|||(12,)|int32
+/AwakeEventData/TT43.BPM.430203/Acquisition/sigmaAvePos|/AwakeEventData/TT43.BPM.430203/Acquisition||27999.0|(1,)|float32
+/AwakeEventData/TT43.BPM.430203/Acquisition/spsExtraction|/AwakeEventData/TT43.BPM.430203/Acquisition|||()|
+/AwakeEventData/TT43.BPM.430203/Acquisition/spsExtractionIndex|/AwakeEventData/TT43.BPM.430203/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT43.BPM.430203/Acquisition/verAvePos|/AwakeEventData/TT43.BPM.430203/Acquisition||-0.24460016|(1,)|float32
+/AwakeEventData/TT43.BPM.430203/Acquisition/verPos|/AwakeEventData/TT43.BPM.430203/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430308/Acquisition/horAvePos|/AwakeEventData/TT43.BPM.430308/Acquisition||6.58781|(1,)|float32
+/AwakeEventData/TT43.BPM.430308/Acquisition/horPos|/AwakeEventData/TT43.BPM.430308/Acquisition|||(12,)|float32
+/AwakeEventData/TT43.BPM.430308/Acquisition/posOK|/AwakeEventData/TT43.BPM.430308/Acquisition|{'bitFieldSize': '12'}||(1,)|
+/AwakeEventData/TT43.BPM.430308/Acquisition/sigma|/AwakeEventData/TT43.BPM.430308/Acquisition|||(12,)|int32
+/AwakeEventData/TT43.BPM.430308/Acquisition/sigmaAvePos|/AwakeEventData/TT43.BPM.430308/Acquisition||31600.0|(1,)|float32
+/AwakeEventData/TT43.BPM.430308/Acquisition/spsExtraction|/AwakeEventData/TT43.BPM.430308/Acquisition|||()|
+/AwakeEventData/TT43.BPM.430308/Acquisition/spsExtractionIndex|/AwakeEventData/TT43.BPM.430308/Acquisition||-1|(1,)|int32
+/AwakeEventData/TT43.BPM.430308/Acquisition/verAvePos|/AwakeEventData/TT43.BPM.430308/Acquisition||-0.41803768|(1,)|float32
+/AwakeEventData/TT43.BPM.430308/Acquisition/verPos|/AwakeEventData/TT43.BPM.430308/Acquisition|||(12,)|float32
+/AwakeEventData/VGP.412400/PR/value|/AwakeEventData/VGP.412400/PR|"{'exception': 'False', 'acqStamp': '1541964907586000000', 'comment': ""b'Pressure gauge'""}"|1.3e-06|(1,)|float32
+/AwakeEventData/VGP.412423/PR/value|/AwakeEventData/VGP.412423/PR|"{'exception': 'False', 'acqStamp': '1541974905962000000', 'comment': ""b'Pressure gauge'""}"|7.3e-05|(1,)|float32
+/AwakeEventData/VTUAwake2Fc/ModeAcq/pdcOutDelay|/AwakeEventData/VTUAwake2Fc/ModeAcq|"{'exception': 'False', 'acqStamp': '1541974911951000000', 'comment': ""b'AWAKE Phase for SPS PLL'""}"|496|(1,)|int16
+/AwakeEventData/VTUAwake2Fc/NormalModeAcq/b_offline|/AwakeEventData/VTUAwake2Fc/NormalModeAcq|"{'exception': 'False', 'acqStamp': '1541974911951000000', 'comment': ""b'SPS RF bucket timing'""}"|445551|(1,)|int64
+/AwakeEventData/VTUAwake2Frep/ModeAcq/pdcOutDelay|/AwakeEventData/VTUAwake2Frep/ModeAcq|"{'exception': 'False', 'acqStamp': '1541974911951000000', 'comment': ""b'AWAKE Phase for SPS PLL'""}"|496|(1,)|int16
+/AwakeEventData/VTUAwake2Frep/NormalModeAcq/b_offline|/AwakeEventData/VTUAwake2Frep/NormalModeAcq|"{'exception': 'False', 'acqStamp': '1541974911951000000', 'comment': ""b'SPS RF bucket timing'""}"|445551|(1,)|int64
+/AwakeEventData/VTUAwake3FT0/ModeAcq/pdcOutDelay|/AwakeEventData/VTUAwake3FT0/ModeAcq|"{'exception': 'False', 'acqStamp': '1541974911951000000', 'comment': ""b'BI Streak delay'""}"|195|(1,)|int16
+/AwakeEventData/VTUAwake3FT0/NormalModeAcq/b_offline|/AwakeEventData/VTUAwake3FT0/NormalModeAcq|"{'exception': 'False', 'acqStamp': '1541974911951000000', 'comment': ""b'BI Streak bucket'""}"|17817689|(1,)|int64
+/AwakeEventData/VTUAwake3FT1/ModeAcq/pdcOutDelay|/AwakeEventData/VTUAwake3FT1/ModeAcq|"{'exception': 'False', 'acqStamp': '1541974911951000000', 'comment': ""b'Streak fine delay'""}"|155|(1,)|int16
+/AwakeEventData/VTUAwake3FT1/NormalModeAcq/b_offline|/AwakeEventData/VTUAwake3FT1/NormalModeAcq|"{'exception': 'False', 'acqStamp': '1541974911951000000', 'comment': ""b'Streak bucket counter'""}"|17817680|(1,)|int64
+/AwakeEventData/VVGF.412400/StartCounterSt/value|/AwakeEventData/VVGF.412400/StartCounterSt|"{'exception': 'False', 'acqStamp': '1541962396973000000', 'comment': ""b'Fast valve counter'""}"|3540|(1,)|int32
+/AwakeEventData/VVGF.412400/State/value|/AwakeEventData/VVGF.412400/State|"{'exception': 'False', 'acqStamp': '1541962394976000000', 'comment': ""b'Fast valve state'""}"|3|(1,)|int16
+/AwakeEventData/VVGF.412423/StartCounterSt/value|/AwakeEventData/VVGF.412423/StartCounterSt|"{'exception': 'False', 'acqStamp': '1541962401980000000', 'comment': ""b'Fast valve counter'""}"|3531|(1,)|int32
+/AwakeEventData/VVGF.412423/State/value|/AwakeEventData/VVGF.412423/State|"{'exception': 'False', 'acqStamp': '1541962399975000000', 'comment': ""b'Fast valve state'""}"|3|(1,)|int16
+/AwakeEventData/XMPP-STREAK/StreakImage|/AwakeEventData/XMPP-STREAK|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'MPP Streak'""}"||()|
+/AwakeEventData/XUCL-SPECTRO/BinningSetting/hbin|/AwakeEventData/XUCL-SPECTRO/BinningSetting||1|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/BinningSetting/hend|/AwakeEventData/XUCL-SPECTRO/BinningSetting||2048|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/BinningSetting/hstart|/AwakeEventData/XUCL-SPECTRO/BinningSetting||1|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/BinningSetting/readMode|/AwakeEventData/XUCL-SPECTRO/BinningSetting||4|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/BinningSetting/vbin|/AwakeEventData/XUCL-SPECTRO/BinningSetting||1|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/BinningSetting/vend|/AwakeEventData/XUCL-SPECTRO/BinningSetting||512|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/BinningSetting/vstart|/AwakeEventData/XUCL-SPECTRO/BinningSetting||1|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraAcq|/AwakeEventData/XUCL-SPECTRO|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'UCL Spectrometer camera readback'""}"||()|
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/ddgGateDelay|/AwakeEventData/XUCL-SPECTRO/CameraSettings||101200000000|(1,)|int64
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/ddgGateDelay_max|/AwakeEventData/XUCL-SPECTRO/CameraSettings||32768000000000000|(1,)|int64
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/ddgGateDelay_min|/AwakeEventData/XUCL-SPECTRO/CameraSettings||0|(1,)|int64
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/ddgGateWidth|/AwakeEventData/XUCL-SPECTRO/CameraSettings||500000000|(1,)|int64
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/ddgGateWidth_max|/AwakeEventData/XUCL-SPECTRO/CameraSettings||32768000000000000|(1,)|int64
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/ddgGateWidth_min|/AwakeEventData/XUCL-SPECTRO/CameraSettings||0|(1,)|int64
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/enableDDGIntelligate|/AwakeEventData/XUCL-SPECTRO/CameraSettings|||()|
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/enableFan|/AwakeEventData/XUCL-SPECTRO/CameraSettings|||()|
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/enableFastTrigger|/AwakeEventData/XUCL-SPECTRO/CameraSettings|||()|
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/exposureTime|/AwakeEventData/XUCL-SPECTRO/CameraSettings||0.1017|(1,)|float32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/mcpGain|/AwakeEventData/XUCL-SPECTRO/CameraSettings||3000|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/mcpGain_max|/AwakeEventData/XUCL-SPECTRO/CameraSettings||4095|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/mcpGain_min|/AwakeEventData/XUCL-SPECTRO/CameraSettings||0|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/preampGainIndex|/AwakeEventData/XUCL-SPECTRO/CameraSettings||0|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/preampGainIndex_max|/AwakeEventData/XUCL-SPECTRO/CameraSettings||2|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/preampGainIndex_min|/AwakeEventData/XUCL-SPECTRO/CameraSettings||0|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/targetShutDownTemperature|/AwakeEventData/XUCL-SPECTRO/CameraSettings||5|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/targetShutDownTemperature_max|/AwakeEventData/XUCL-SPECTRO/CameraSettings||10|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/targetShutDownTemperature_min|/AwakeEventData/XUCL-SPECTRO/CameraSettings||0|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/targetTemperature|/AwakeEventData/XUCL-SPECTRO/CameraSettings||-30|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/targetTemperature_max|/AwakeEventData/XUCL-SPECTRO/CameraSettings||50|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/targetTemperature_min|/AwakeEventData/XUCL-SPECTRO/CameraSettings||-50|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/triggerEdge|/AwakeEventData/XUCL-SPECTRO/CameraSettings||0|(1,)|int32
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/triggerTermination|/AwakeEventData/XUCL-SPECTRO/CameraSettings|||()|
+/AwakeEventData/XUCL-SPECTRO/CameraSettings/triggerThreshold|/AwakeEventData/XUCL-SPECTRO/CameraSettings||1.099606|(1,)|float32
+/AwakeEventData/XUCL-SPECTRO/CameraSettingsStatus|/AwakeEventData/XUCL-SPECTRO|"{'exception': 'True', 'acqStamp': '1541974917128000000', 'comment': ""b'Spec cam setting status'""}"||()|
+/AwakeEventData/XUCL-SPECTRO/ImageAcq/imageData|/AwakeEventData/XUCL-SPECTRO/ImageAcq|||(1048576,)|int32
+/AwakeEventData/XUCL-SPECTRO/ImageAcq/imageHeight|/AwakeEventData/XUCL-SPECTRO/ImageAcq||512|(1,)|int64
+/AwakeEventData/XUCL-SPECTRO/ImageAcq/imageSize|/AwakeEventData/XUCL-SPECTRO/ImageAcq||1048576|(1,)|int64
+/AwakeEventData/XUCL-SPECTRO/ImageAcq/imageWidth|/AwakeEventData/XUCL-SPECTRO/ImageAcq||2048|(1,)|int64
+/AwakeEventData/awake.XAWAVS_BEAML_TT_AVG/PosSt/value|/AwakeEventData/awake.XAWAVS_BEAML_TT_AVG/PosSt|"{'exception': 'False', 'acqStamp': '1541974916729000000', 'comment': ""b'Plasma cell beamline temp'""}"|196.7487030029297|(1,)|float64
+/AwakeEventData/awake.XAWAVS_DE_TT_AVG/PosSt/value|/AwakeEventData/awake.XAWAVS_DE_TT_AVG/PosSt|"{'exception': 'False', 'acqStamp': '1541974916729000000', 'comment': ""b'Downstream end temp'""}"|20.091068267822266|(1,)|float64
+/AwakeEventData/awake.XAWAVS_DF_TT_AVG/PosSt/value|/AwakeEventData/awake.XAWAVS_DF_TT_AVG/PosSt|"{'exception': 'False', 'acqStamp': '1541974916729000000', 'comment': ""b'Downstream flask temp'""}"|183.33828735351562|(1,)|float64
+/AwakeEventData/awake.XAWAVS_DJ_PV236/StsReg01/value|/AwakeEventData/awake.XAWAVS_DJ_PV236/StsReg01|"{'exception': 'False', 'acqStamp': '1541962384048000000', 'comment': ""b'Downstream flask valve'""}"|5|(1,)|int32
+/AwakeEventData/awake.XAWAVS_UE_TT_AVG/PosSt/value|/AwakeEventData/awake.XAWAVS_UE_TT_AVG/PosSt|"{'exception': 'False', 'acqStamp': '1541974916729000000', 'comment': ""b'Upstream end temp'""}"|21.833423614501953|(1,)|float64
+/AwakeEventData/awake.XAWAVS_UF_TT_AVG/PosSt/value|/AwakeEventData/awake.XAWAVS_UF_TT_AVG/PosSt|"{'exception': 'False', 'acqStamp': '1541974916729000000', 'comment': ""b'Upstream falsk temp'""}"|183.18002319335938|(1,)|float64
+/AwakeEventData/awake.XAWAVS_UJ_PV136/StsReg01/value|/AwakeEventData/awake.XAWAVS_UJ_PV136/StsReg01|"{'exception': 'False', 'acqStamp': '1541962384264000000', 'comment': ""b'Upstream flask valve'""}"|5|(1,)|int32
+/AwakeEventData/awake.XAWAVS_VX_TT_AVG/PosSt/value|/AwakeEventData/awake.XAWAVS_VX_TT_AVG/PosSt|"{'exception': 'False', 'acqStamp': '1541974916729000000', 'comment': ""b'Average plasma cell temp'""}"|196.5685272216797|(1,)|float64
+/AwakeEventInfo/configurationVersionNumber|/AwakeEventInfo|||()|
+/AwakeEventInfo/eventNumber|/AwakeEventInfo|||()|
+/AwakeEventInfo/runNumber|/AwakeEventInfo|||()|
+/AwakeEventInfo/timestamp|/AwakeEventInfo|||()|
